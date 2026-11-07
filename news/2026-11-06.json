@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-06",
+ "label": "Friday, 6 November 2026",
+ "sources": "The Hindu · The Indian Express",
+ "news": [
+  {
+   "h": "Visa made compulsory for six communities who came in before December 2024",
+   "catch": "The Home Ministry amended the Immigration and Foreigners (Exemption) Order, 2025. Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from Afghanistan, Bangladesh and Pakistan who entered without valid papers on or before 31 December 2024 must now hold an “appropriate visa” to stay on.",
+   "why": "The citizenship-versus-foreigner line, and the same 31 December 2024 cut-off that the CAA uses.",
+   "src": "The Hindu"
+  },
+  {
+   "h": "Held past 24 hours without a magistrate? You must be released, says Supreme Court",
+   "catch": "The Court held that anyone detained beyond twenty-four hours without being produced before a magistrate is entitled to release — the constitutional clock in Article 22(2), now carried into the new criminal procedure code.",
+   "why": "Article 22, the D.K. Basu safeguards, and the production-within-24-hours rule in the BNSS.",
+   "src": "Indian Express"
+  },
+  {
+   "h": "Census 2027: States told to flag bad data while it is still being collected",
+   "catch": "The Registrar General and Census Commissioner has asked every State to track enumeration in real time so that “data quality concerns” are caught and corrected during collection, rather than discovered months later.",
+   "why": "The first digital census: two phases, self-enumeration, and the 1 March 2027 reference date.",
+   "src": "The Hindu"
+  },
+  {
+   "h": "Centre may set up a panel to review the new UGC equity rules",
+   "catch": "The Centre told the Supreme Court it may constitute a committee to review the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026, which drew objections from general-category groups and from sections of Dalit and OBC communities.",
+   "why": "How regulations are made, how they are challenged, and what equity in admissions means.",
+   "src": "Indian Express"
+  },
+  {
+   "h": "Agniveer stays, with two more years of service",
+   "catch": "The Defence Ministry said the scheme is not being rolled back: the service tenure has been extended by two years, and eligible recruits will be absorbed after six years.",
+   "why": "A recruitment scheme examined through its terms rather than its headlines — a favourite CLAT move.",
+   "src": "The Hindu"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Home Ministry made the change by amending which instrument?",
+   "o": [
+    "The Citizenship Act, 1955",
+    "The Immigration and Foreigners (Exemption) Order, 2025",
+    "The Passports Act, 1967",
+    "The Foreigners Act, 1946"
+   ],
+   "a": 1,
+   "e": "The amendment was made to the Immigration and Foreigners (Exemption) Order, 2025, not to a statute."
+  },
+  {
+   "q": "Which community is NOT among the six named in the amendment?",
+   "o": [
+    "Jains",
+    "Parsis",
+    "Christians",
+    "Ahmadis"
+   ],
+   "a": 3,
+   "e": "The six are Hindus, Sikhs, Buddhists, Jains, Parsis and Christians from Afghanistan, Bangladesh and Pakistan."
+  },
+  {
+   "q": "The cut-off date for entry without valid documents under the amended order is:",
+   "o": [
+    "31 December 2019",
+    "31 December 2021",
+    "31 December 2024",
+    "31 March 2025"
+   ],
+   "a": 2,
+   "e": "Entry on or before 31 December 2024 is the dividing line — the same cut-off used by the CAA, 2019."
+  },
+  {
+   "q": "Citizenship, its acquisition and its loss, is dealt with in which Article of the Constitution?",
+   "o": [
+    "Article 9",
+    "Article 10",
+    "Article 11",
+    "Article 12"
+   ],
+   "a": 2,
+   "e": "Article 11 gives Parliament the power to regulate citizenship; Articles 5 to 10 fix who was a citizen at commencement."
+  },
+  {
+   "q": "The twenty-four hour rule for producing a detained person before a magistrate appears in:",
+   "o": [
+    "Article 20(3)",
+    "Article 21",
+    "Article 22(2)",
+    "Article 23"
+   ],
+   "a": 2,
+   "e": "Article 22(2) requires production before the nearest magistrate within twenty-four hours of arrest, excluding journey time."
+  },
+  {
+   "q": "Which body asked the States to track enumeration in real time for Census 2027?",
+   "o": [
+    "NITI Aayog",
+    "The Registrar General and Census Commissioner of India",
+    "The Ministry of Statistics and Programme Implementation",
+    "The Unique Identification Authority of India"
+   ],
+   "a": 1,
+   "e": "The RG&CCI, which conducts the census under the Census Act, 1948, issued the direction."
+  },
+  {
+   "q": "The phase of Census 2027 in which population enumeration takes place is:",
+   "o": [
+    "The houselisting phase",
+    "The population enumeration phase",
+    "The revision phase",
+    "The self-enumeration phase"
+   ],
+   "a": 1,
+   "e": "Census 2027 runs in two phases: houselisting first, population enumeration second."
+  },
+  {
+   "q": "The UGC regulations under review concern:",
+   "o": [
+    "the minimum qualifications for teachers",
+    "promotion of equity in higher education institutions",
+    "the credit framework for degrees",
+    "foreign collaboration in higher education"
+   ],
+   "a": 1,
+   "e": "They are the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026."
+  },
+  {
+   "q": "Under the revised Agniveer position described in the papers, eligible recruits are absorbed after:",
+   "o": [
+    "four years",
+    "five years",
+    "six years",
+    "eight years"
+   ],
+   "a": 2,
+   "e": "The tenure was extended by two years, and eligible recruits are to be absorbed after six years; the scheme itself was not withdrawn."
+  },
+  {
+   "q": "Pralay, flight-tested this week, is:",
+   "o": [
+    "a surface-to-air missile",
+    "a quasi-ballistic missile of about 500 km range",
+    "an anti-satellite weapon",
+    "a submarine-launched cruise missile"
+   ],
+   "a": 1,
+   "e": "DRDO described Pralay as a quasi-ballistic missile with a range of up to 500 km that can manoeuvre in flight."
+  }
+ ]
+}

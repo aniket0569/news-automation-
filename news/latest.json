@@ -1,0 +1,149 @@
+{
+ "date": "2026-11-07",
+ "label": "Saturday, 7 November 2026",
+ "sources": "The Hindu · The Indian Express",
+ "news": [
+  {
+   "h": "Supreme Court holds its ground on the OBC creamy layer",
+   "catch": "A Bench of Justices P.S. Narasimha and R. Mahadevan refused the Centre’s plea for two more years, holding there was no justification for deferring its 11 March judgment. Parental salary and agricultural income cannot by themselves push a candidate into the creamy layer, and the ruling now governs how services are allocated to the 2025 civil services batch.",
+   "why": "Article 16(4), the Indra Sawhney creamy layer doctrine, and what happens when the executive asks a court to slow its own judgment.",
+   "src": "The Hindu"
+  },
+  {
+   "h": "Election Commission reopens the window for voters deleted in the SIR",
+   "catch": "Electors in Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland marked absent, shifted, dead or duplicate during the Special Intensive Revision can now refill the enumeration form instead of Form 6 — a change the Commission made after the Supreme Court asked why deleted voters were being treated as first-time applicants.",
+   "why": "Article 326, the Representation of the People Act, and the difference between revising a roll and making a fresh claim to be on it.",
+   "src": "Indian Express"
+  },
+  {
+   "h": "Supreme Court calls vehicle and construction bans ‘old, tried, failed tools’",
+   "catch": "Hearing the capital’s smog, a Bench led by the Chief Justice asked the Centre and the air quality commission for a method other than stopping traffic and stopping building. Hours later Stage III of the Graded Response Action Plan was imposed as Delhi’s average air quality index crossed 390.",
+   "why": "Article 21 and the right to clean air, the 2021 CAQM Act, and how the four GRAP stages are triggered.",
+   "src": "The Hindu"
+  },
+  {
+   "h": "Gauhati High Court calls NSA detention of a Kaziranga activist a ‘shortcut’",
+   "catch": "The court took a stern view of the National Security Act being used against Pranab Doley, held for 115 days while protesting a proposed hotel near Kaziranga National Park, and ordered his release.",
+   "why": "Preventive detention under Article 22(4) to (7), and why the grounds of detention must be communicated.",
+   "src": "Indian Express"
+  },
+  {
+   "h": "Delhi High Court orders takedown of AI-made videos of the Chief Minister",
+   "catch": "The court restrained the circulation of AI-generated videos showing the Chief Minister as a liquor vendor and directed X and Meta to take them down, describing them as defamatory and an attack on a woman’s dignity.",
+   "why": "Personality rights, deepfakes, and how intermediary liability works under the IT Rules.",
+   "src": "Indian Express"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Reservation in public employment for backward classes is provided by which Article?",
+   "o": [
+    "Article 15(4)",
+    "Article 16(4)",
+    "Article 17",
+    "Article 46"
+   ],
+   "a": 1,
+   "e": "Article 16(4) allows the State to reserve appointments in favour of backward classes not adequately represented in public employment."
+  },
+  {
+   "q": "The ‘creamy layer’ principle, applied in this week’s ruling, was laid down in:",
+   "o": [
+    "Indra Sawhney v Union of India",
+    "M. Nagaraj v Union of India",
+    "Jarnail Singh v Lachhmi Narain Gupta",
+    "Rajeev Kumar Gupta v Union of India"
+   ],
+   "a": 0,
+   "e": "Indra Sawhney (1992) held that the backward class category must exclude the socially advanced ‘creamy layer’."
+  },
+  {
+   "q": "The Supreme Court’s March 2026 judgment held that creamy layer status cannot be decided solely by:",
+   "o": [
+    "the candidate’s own income",
+    "parental income from salary and agriculture",
+    "the candidate’s place of residence",
+    "the candidate’s school fees"
+   ],
+   "a": 1,
+   "e": "The 1993 memorandum excluded salary and agricultural income from the income test; adding them back pushed PSU employees’ children out of the quota."
+  },
+  {
+   "q": "SIR, the process in which these voters were marked out, stands for:",
+   "o": [
+    "Special Intensive Revision",
+    "Systematic Internal Review",
+    "State Electoral Register",
+    "Special Identification Roll"
+   ],
+   "a": 0,
+   "e": "SIR is the Special Intensive Revision of electoral rolls, carried out booth by booth."
+  },
+  {
+   "q": "The constitutional basis for adult suffrage in elections to the House of the People is:",
+   "o": [
+    "Article 324",
+    "Article 325",
+    "Article 326",
+    "Article 327"
+   ],
+   "a": 2,
+   "e": "Article 326 provides for elections on the basis of adult suffrage to the Lok Sabha and State Legislative Assemblies."
+  },
+  {
+   "q": "Under Stage III of the Graded Response Action Plan, which of the following applies in Delhi and the NCR districts named?",
+   "o": [
+    "A ban on all private cars regardless of fuel",
+    "A ban on BS-III petrol and BS-IV diesel four-wheelers",
+    "Closure of all schools up to Class 12",
+    "A complete halt on metro services"
+   ],
+   "a": 1,
+   "e": "Stage III bans BS-III petrol and BS-IV diesel light motor vehicles, stops dust-generating construction, and moves classes up to Class 5 to hybrid mode."
+  },
+  {
+   "q": "The Commission for Air Quality Management, which imposes GRAP, is a statutory body created by:",
+   "o": [
+    "the Air (Prevention and Control of Pollution) Act, 1981",
+    "the Environment (Protection) Act, 1986",
+    "the CAQM in NCR and Adjoining Areas Act, 2021",
+    "a Supreme Court order of 2018"
+   ],
+   "a": 2,
+   "e": "The Commission was created by a 2021 Act of Parliament, replacing an earlier ordinance."
+  },
+  {
+   "q": "The right to breathe clean air has been read by the courts into:",
+   "o": [
+    "Article 19(1)(a)",
+    "Article 21",
+    "Article 48A",
+    "Article 51A(g)"
+   ],
+   "a": 1,
+   "e": "Article 21, the right to life, has been expanded to include the right to a clean environment; Article 48A is a directive to the State, not a fundamental right."
+  },
+  {
+   "q": "Under Article 22, a person detained under a preventive detention law may be kept beyond three months only if:",
+   "o": [
+    "a magistrate remands him",
+    "an Advisory Board reports sufficient cause for the detention",
+    "the State legislature approves it",
+    "the grounds are served in writing"
+   ],
+   "a": 1,
+   "e": "Article 22(4) permits detention beyond three months only on the report of an Advisory Board constituted under the relevant law."
+  },
+  {
+   "q": "The Delhi High Court’s order against AI-generated videos of the Chief Minister rests primarily on:",
+   "o": [
+    "copyright held by the news channels",
+    "personality rights and the dignity of the individual",
+    "the Official Secrets Act",
+    "contempt of court"
+   ],
+   "a": 1,
+   "e": "The court treated the videos as defamatory and an attack on her dignity, grounding the injunction in personality rights."
+  }
+ ]
+}
