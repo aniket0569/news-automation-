@@ -1,149 +1,140 @@
 {
- "date": "2026-11-07",
- "label": "Saturday, 7 November 2026",
- "sources": "The Hindu · The Indian Express",
+ "date": "2026-11-08T16:08:34.826356+05:30",
+ "label": "Sunday, 8 November 2026",
+ "sources": "The Hindu",
  "news": [
   {
-   "h": "Supreme Court holds its ground on the OBC creamy layer",
-   "catch": "A Bench of Justices P.S. Narasimha and R. Mahadevan refused the Centre’s plea for two more years, holding there was no justification for deferring its 11 March judgment. Parental salary and agricultural income cannot by themselves push a candidate into the creamy layer, and the ruling now governs how services are allocated to the 2025 civil services batch.",
-   "why": "Article 16(4), the Indra Sawhney creamy layer doctrine, and what happens when the executive asks a court to slow its own judgment.",
-   "src": "The Hindu"
+   "h": "Congress donations fall nearly 75%, sharpest decline in a decade",
+   "catch": "Congress had received ₹517.39 crore in such contributions in 2024-25, according to its 2024-25 contribution report submitted to the Election Commission of India",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/congress-donations-fall-nearly-75-sharpest-decline-in-a-decade/article71680699.ece"
   },
   {
-   "h": "Election Commission reopens the window for voters deleted in the SIR",
-   "catch": "Electors in Delhi, Maharashtra, Haryana, Andhra Pradesh, Jharkhand, Telangana and Nagaland marked absent, shifted, dead or duplicate during the Special Intensive Revision can now refill the enumeration form instead of Form 6 — a change the Commission made after the Supreme Court asked why deleted voters were being treated as first-time applicants.",
-   "why": "Article 326, the Representation of the People Act, and the difference between revising a roll and making a fresh claim to be on it.",
-   "src": "Indian Express"
+   "h": "T.N. government to withdraw G.O. promoting Dr. Ambedkar Law University Registrar as temporary Director of Legal Studies",
+   "catch": "Chief Justice Sushrut Arvind Dharmadhikari and Justice G. Arul Murugan record the submission that the vacancy would now be filled up as per regular process",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-to-withdraw-go-promoting-dr-ambedkar-law-university-registrar-as-temporary-director-of-legal-studies/article71677470.ece"
   },
   {
-   "h": "Supreme Court calls vehicle and construction bans ‘old, tried, failed tools’",
-   "catch": "Hearing the capital’s smog, a Bench led by the Chief Justice asked the Centre and the air quality commission for a method other than stopping traffic and stopping building. Hours later Stage III of the Graded Response Action Plan was imposed as Delhi’s average air quality index crossed 390.",
-   "why": "Article 21 and the right to clean air, the 2021 CAQM Act, and how the four GRAP stages are triggered.",
-   "src": "The Hindu"
-  },
-  {
-   "h": "Gauhati High Court calls NSA detention of a Kaziranga activist a ‘shortcut’",
-   "catch": "The court took a stern view of the National Security Act being used against Pranab Doley, held for 115 days while protesting a proposed hotel near Kaziranga National Park, and ordered his release.",
-   "why": "Preventive detention under Article 22(4) to (7), and why the grounds of detention must be communicated.",
-   "src": "Indian Express"
-  },
-  {
-   "h": "Delhi High Court orders takedown of AI-made videos of the Chief Minister",
-   "catch": "The court restrained the circulation of AI-generated videos showing the Chief Minister as a liquor vendor and directed X and Meta to take them down, describing them as defamatory and an attack on a woman’s dignity.",
-   "why": "Personality rights, deepfakes, and how intermediary liability works under the IT Rules.",
-   "src": "Indian Express"
+   "h": "As New Delhi’s air turns toxic again, people complain of unaffordable air purification products",
+   "catch": "Despite observations from the Delhi High Court and recommendations from a Parliamentary Standing Committee to reduce the 18% GST on purifiers and HEPA filters to 5%, the GST Fitment Committee maintained the 18% levy",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/technology/as-new-delhis-air-turns-toxic-again-people-complain-of-unaffordable-air-purification-products/article71660297.ece"
   }
  ],
  "quiz": [
   {
-   "q": "Reservation in public employment for backward classes is provided by which Article?",
+   "q": "Who took charge as the Chief of Defence Staff in May 2026?",
    "o": [
-    "Article 15(4)",
-    "Article 16(4)",
-    "Article 17",
-    "Article 46"
+    "General Dhiraj Seth",
+    "General N. S. Raja Subramani",
+    "Admiral Krishna Swaminathan",
+    "Air Chief Marshal Ashutosh Dixit"
    ],
    "a": 1,
-   "e": "Article 16(4) allows the State to reserve appointments in favour of backward classes not adequately represented in public employment."
+   "e": "General N. S. Raja Subramani became the third CDS on 31 May 2026; General Dhiraj Seth took over as Army chief on 30 June."
   },
   {
-   "q": "The ‘creamy layer’ principle, applied in this week’s ruling, was laid down in:",
+   "q": "Who was appointed Chief of the Air Staff in October 2026?",
    "o": [
-    "Indra Sawhney v Union of India",
-    "M. Nagaraj v Union of India",
-    "Jarnail Singh v Lachhmi Narain Gupta",
-    "Rajeev Kumar Gupta v Union of India"
-   ],
-   "a": 0,
-   "e": "Indra Sawhney (1992) held that the backward class category must exclude the socially advanced ‘creamy layer’."
-  },
-  {
-   "q": "The Supreme Court’s March 2026 judgment held that creamy layer status cannot be decided solely by:",
-   "o": [
-    "the candidate’s own income",
-    "parental income from salary and agriculture",
-    "the candidate’s place of residence",
-    "the candidate’s school fees"
-   ],
-   "a": 1,
-   "e": "The 1993 memorandum excluded salary and agricultural income from the income test; adding them back pushed PSU employees’ children out of the quota."
-  },
-  {
-   "q": "SIR, the process in which these voters were marked out, stands for:",
-   "o": [
-    "Special Intensive Revision",
-    "Systematic Internal Review",
-    "State Electoral Register",
-    "Special Identification Roll"
-   ],
-   "a": 0,
-   "e": "SIR is the Special Intensive Revision of electoral rolls, carried out booth by booth."
-  },
-  {
-   "q": "The constitutional basis for adult suffrage in elections to the House of the People is:",
-   "o": [
-    "Article 324",
-    "Article 325",
-    "Article 326",
-    "Article 327"
+    "Air Chief Marshal A. P. Singh",
+    "Air Chief Marshal V. R. Chaudhari",
+    "Air Chief Marshal Ashutosh Dixit",
+    "Air Marshal R. K. S. Bhadauria"
    ],
    "a": 2,
-   "e": "Article 326 provides for elections on the basis of adult suffrage to the Lok Sabha and State Legislative Assemblies."
+   "e": "Air Chief Marshal Ashutosh Dixit took charge as the 29th Chief of the Air Staff on 31 October 2026, succeeding Air Chief Marshal A. P. Singh."
   },
   {
-   "q": "Under Stage III of the Graded Response Action Plan, which of the following applies in Delhi and the NCR districts named?",
+   "q": "Who is the Chief of the Naval Staff, who took charge on 31 May 2026?",
    "o": [
-    "A ban on all private cars regardless of fuel",
-    "A ban on BS-III petrol and BS-IV diesel four-wheelers",
-    "Closure of all schools up to Class 12",
-    "A complete halt on metro services"
+    "Admiral Krishna Swaminathan",
+    "Admiral R. Hari Kumar",
+    "Admiral Karambir Singh",
+    "Admiral Dinesh K. Tripathi"
    ],
-   "a": 1,
-   "e": "Stage III bans BS-III petrol and BS-IV diesel light motor vehicles, stops dust-generating construction, and moves classes up to Class 5 to hybrid mode."
+   "a": 0,
+   "e": "Admiral Krishna Swaminathan took over as the 27th Chief of the Naval Staff on 31 May 2026, the same day as the new CDS."
   },
   {
-   "q": "The Commission for Air Quality Management, which imposes GRAP, is a statutory body created by:",
+   "q": "Who is the Chief of the Army Staff of India?",
    "o": [
-    "the Air (Prevention and Control of Pollution) Act, 1981",
-    "the Environment (Protection) Act, 1986",
-    "the CAQM in NCR and Adjoining Areas Act, 2021",
-    "a Supreme Court order of 2018"
+    "General Upendra Dwivedi",
+    "General Manoj Pande",
+    "General Dhiraj Seth",
+    "General M. M. Naravane"
    ],
    "a": 2,
-   "e": "The Commission was created by a 2021 Act of Parliament, replacing an earlier ordinance."
+   "e": "General Dhiraj Seth took charge as the 31st Chief of the Army Staff on 30 June 2026."
   },
   {
-   "q": "The right to breathe clean air has been read by the courts into:",
+   "q": "Who is the Chief Justice of India?",
    "o": [
-    "Article 19(1)(a)",
-    "Article 21",
-    "Article 48A",
-    "Article 51A(g)"
+    "Justice Sanjiv Khanna",
+    "Justice B. R. Gavai",
+    "Justice Surya Kant",
+    "Justice Hrishikesh Roy"
    ],
-   "a": 1,
-   "e": "Article 21, the right to life, has been expanded to include the right to a clean environment; Article 48A is a directive to the State, not a fundamental right."
+   "a": 2,
+   "e": "Justice Surya Kant is the 53rd Chief Justice of India, having taken office in November 2025."
   },
   {
-   "q": "Under Article 22, a person detained under a preventive detention law may be kept beyond three months only if:",
+   "q": "Who is the Governor of the Reserve Bank of India?",
    "o": [
-    "a magistrate remands him",
-    "an Advisory Board reports sufficient cause for the detention",
-    "the State legislature approves it",
-    "the grounds are served in writing"
+    "Shaktikanta Das",
+    "Sanjay Malhotra",
+    "Urjit Patel",
+    "Michael Patra"
    ],
    "a": 1,
-   "e": "Article 22(4) permits detention beyond three months only on the report of an Advisory Board constituted under the relevant law."
+   "e": "Sanjay Malhotra is the 26th Governor of the RBI and chairs the Monetary Policy Committee."
   },
   {
-   "q": "The Delhi High Court’s order against AI-generated videos of the Chief Minister rests primarily on:",
+   "q": "Who is the Chief Election Commissioner of India?",
    "o": [
-    "copyright held by the news channels",
-    "personality rights and the dignity of the individual",
-    "the Official Secrets Act",
-    "contempt of court"
+    "Rajiv Kumar",
+    "Gyanesh Kumar",
+    "Sukhbir Singh Sandhu",
+    "Anup Chandra Pandey"
    ],
    "a": 1,
-   "e": "The court treated the videos as defamatory and an attack on her dignity, grounding the injunction in personality rights."
+   "e": "Gyanesh Kumar is the 26th Chief Election Commissioner. The Election Commission conducts elections to Parliament, State legislatures and the offices of President and Vice-President."
+  },
+  {
+   "q": "The Sixteenth Finance Commission, whose recommendations were accepted in the 2026-27 Budget, is chaired by:",
+   "o": [
+    "N. K. Singh",
+    "Arvind Panagariya",
+    "Y. V. Reddy",
+    "Vijay Kelkar"
+   ],
+   "a": 1,
+   "e": "Arvind Panagariya chairs the Sixteenth Finance Commission, which recommended retaining the States' vertical share of central taxes at 41 per cent."
+  },
+  {
+   "q": "In the 2026 Assembly elections, who became the first Bharatiya Janata Party Chief Minister of West Bengal?",
+   "o": [
+    "Dilip Ghosh",
+    "Suvendu Adhikari",
+    "Sukanta Majumdar",
+    "Mithun Chakraborty"
+   ],
+   "a": 1,
+   "e": "Suvendu Adhikari was sworn in on 9 May 2026 after the BJP won 207 of the 294 seats, ending Trinamool Congress rule since 2011."
+  },
+  {
+   "q": "Who became Chief Minister of Tamil Nadu in May 2026?",
+   "o": [
+    "M. K. Stalin",
+    "Edappadi K. Palaniswami",
+    "C. Joseph Vijay",
+    "Udhayanidhi Stalin"
+   ],
+   "a": 2,
+   "e": "Actor-politician C. Joseph Vijay of the Tamilaga Vettri Kazhagam was sworn in on 10 May 2026 after his party won 108 seats in the 234-member Assembly."
   }
  ]
 }
