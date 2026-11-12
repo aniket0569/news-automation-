@@ -1,0 +1,140 @@
+{
+ "date": "2026-11-12T17:05:20.755717+05:30",
+ "label": "Thursday, 12 November 2026",
+ "sources": "The Hindu",
+ "news": [
+  {
+   "h": "Why the Gokul Dairy election is sparking political outrage | The Hindu Editorial",
+   "catch": "The Gokul Dairy controversy has become a flashpoint in Maharashtra politics after an ordinance allowed the state government to nominate voting directors to the cooperative’s board following a closely contested election. Critics argue that the move altered the balance of power after a Congress-backed panel won a majority of elected seats…",
+   "why": "How a law is made, and which list or Article it draws its power from.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/videos/why-the-gokul-dairy-election-is-sparking-political-outrage-the-hindu-editorial/article71693020.ece"
+  },
+  {
+   "h": "Indoor air pollution poses critical, year-round health threat",
+   "catch": "Outdoor emissions regularly infiltrate living spaces, combining with domestic activities to create complex, toxic indoor environments",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/technology/indoor-air-pollution-poses-critical-year-round-health-threat/article71692541.ece"
+  },
+  {
+   "h": "Indonesia's Vice President resigns as eligibility and academic credentials are questioned",
+   "catch": "The Constitutional Court and the Supreme Court ruled last month that the documents submitted by Gibran Rakabuming Raka, the 39-year-old son of former President Joko Widodo, regarding his overseas education didn't meet election requirements",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "Who is the Chairman of the Indian Space Research Organisation?",
+   "o": [
+    "S. Somanath",
+    "V. Narayanan",
+    "K. Sivan",
+    "A. S. Kiran Kumar"
+   ],
+   "a": 1,
+   "e": "V. Narayanan is Chairman of ISRO and Secretary, Department of Space."
+  },
+  {
+   "q": "GSLV-F18, launched on 30 October 2026, carried which satellite?",
+   "o": [
+    "NVS-03, a navigation satellite",
+    "EOS-08, an earth observation satellite",
+    "GSAT-20, a communications satellite",
+    "Aditya-L2"
+   ],
+   "a": 0,
+   "e": "GSLV-F18 carried NVS-03, a second-generation navigation satellite, restoring the NavIC constellation to four satellites."
+  },
+  {
+   "q": "ISRO's first uncrewed mission under the Gaganyaan programme is intended to:",
+   "o": [
+    "land a rover near the lunar south pole",
+    "test the crew module and escape systems before a crewed flight",
+    "place a space station module in orbit",
+    "study the sun from the L1 point"
+   ],
+   "a": 1,
+   "e": "The G1 uncrewed mission tests the crew module, its parachutes and escape systems before Indian astronauts fly."
+  },
+  {
+   "q": "The target year set by India for commissioning the Bharatiya Antariksh Station is:",
+   "o": [
+    "2028",
+    "2030",
+    "2035",
+    "2040"
+   ],
+   "a": 2,
+   "e": "The Bharatiya Antariksh Station is targeted for 2035, with the first module planned by 2028, ahead of a crewed Moon landing by 2040."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Physiology or Medicine was awarded for:",
+   "o": [
+    "the discovery of light-gated ion channels and optogenetics",
+    "the development of mRNA vaccines",
+    "the discovery of the hepatitis C virus",
+    "work on protein structure prediction"
+   ],
+   "a": 0,
+   "e": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honoured for optogenetics, which allows individual nerve cells to be switched on or off with light."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
+   "o": [
+    "the detection of gravitational waves",
+    "the IceCube Neutrino Observatory and high-energy astrophysical neutrinos",
+    "work on black holes",
+    "the invention of the blue LED"
+   ],
+   "a": 1,
+   "e": "Halzen was honoured for turning a cubic kilometre of Antarctic ice into the IceCube detector and for the discovery of high-energy neutrinos of astrophysical origin."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Chemistry recognised work on:",
+   "o": [
+    "quantum dots",
+    "click chemistry",
+    "non-linear effects and autocatalysis in asymmetric synthesis",
+    "lithium-ion batteries"
+   ],
+   "a": 2,
+   "e": "Henri Kagan of France and Kenso Soai of Japan were honoured for explaining how living systems came to contain one of two mirror-image forms of a molecule."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Literature was awarded to:",
+   "o": [
+    "Anne Carson",
+    "Han Kang",
+    "Jon Fosse",
+    "Abdulrazak Gurnah"
+   ],
+   "a": 0,
+   "e": "The Canadian poet and translator Anne Carson was honoured for an oeuvre in dialogue with the classical tradition."
+  },
+  {
+   "q": "The 2026 Nobel Peace Prize was awarded to Navi Pillay for:",
+   "o": [
+    "work on climate finance",
+    "efforts to promote peace and international law",
+    "reporting on conflict zones",
+    "work on disarmament"
+   ],
+   "a": 1,
+   "e": "Navanethem 'Navi' Pillay, the South African jurist, was honoured for her efforts to promote peace and international law."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Economic Sciences was awarded for work that produced:",
+   "o": [
+    "the theory of comparative advantage",
+    "New Keynesian models of macroeconomic stabilisation",
+    "the efficient markets hypothesis",
+    "the theory of asymmetric information"
+   ],
+   "a": 1,
+   "e": "Robert E. Hall and Michael Woodford were honoured for the microeconomic foundations of macroeconomic stabilisation, used by central banks worldwide."
+  }
+ ]
+}

@@ -1,140 +1,140 @@
 {
- "date": "2026-11-11T16:46:53.680331+05:30",
- "label": "Wednesday, 11 November 2026",
+ "date": "2026-11-12T17:05:20.755717+05:30",
+ "label": "Thursday, 12 November 2026",
  "sources": "The Hindu",
  "news": [
   {
-   "h": "Andhra local body poll staff face unpaid dues, no food or water, says employees’ body",
-   "catch": "The APGEA urges the Chief Secretary and the State Election Commissioner to enforce the revised remuneration orders",
-   "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-local-body-poll-staff-face-unpaid-dues-no-food-or-water-says-employees-body/article71689030.ece"
-  },
-  {
-   "h": "Supreme Court goes beyond Deepavali AQI, flags vehicular emissions polluting Delhi air",
-   "catch": "The court says Delhi and the NCR bear the ‘cumulative burden of vehicular traffic’ and seeks to know what has been done to regulate in the capital the entry and plying of vehicles from neighbouring States",
-   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/supreme-court-goes-beyond-deepavali-aqi-flags-vehicular-emissions-polluting-delhi-air/article71685844.ece"
-  },
-  {
-   "h": "Andhra aims to secure ₹10 lakh crore at CII Partnership Summit, says TDP MP Chintakayala Vijay",
-   "catch": "Andhra Pradesh’s GSDP growth rose to a record 8.51%, making it the second fastest-growing State, Rajya Sabha MP Chintakayala Vijay says",
+   "h": "Why the Gokul Dairy election is sparking political outrage | The Hindu Editorial",
+   "catch": "The Gokul Dairy controversy has become a flashpoint in Maharashtra politics after an ordinance allowed the state government to nominate voting directors to the cooperative’s board following a closely contested election. Critics argue that the move altered the balance of power after a Congress-backed panel won a majority of elected seats…",
    "why": "How a law is made, and which list or Article it draws its power from.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-aims-to-secure-10-lakh-crore-at-cii-partnership-summit-says-tdp-mp-chintakayala-vijay/article71688977.ece"
+   "url": "https://www.thehindu.com/videos/why-the-gokul-dairy-election-is-sparking-political-outrage-the-hindu-editorial/article71693020.ece"
+  },
+  {
+   "h": "Indoor air pollution poses critical, year-round health threat",
+   "catch": "Outdoor emissions regularly infiltrate living spaces, combining with domestic activities to create complex, toxic indoor environments",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/technology/indoor-air-pollution-poses-critical-year-round-health-threat/article71692541.ece"
+  },
+  {
+   "h": "Indonesia's Vice President resigns as eligibility and academic credentials are questioned",
+   "catch": "The Constitutional Court and the Supreme Court ruled last month that the documents submitted by Gibran Rakabuming Raka, the 39-year-old son of former President Joko Widodo, regarding his overseas education didn't meet election requirements",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/indonesias-vice-president-resigns-as-eligibility-and-academic-credentials-are-questioned/article71692540.ece"
   }
  ],
  "quiz": [
   {
-   "q": "Who took charge as the Chief of Defence Staff in May 2026?",
+   "q": "Who is the Chairman of the Indian Space Research Organisation?",
    "o": [
-    "General Dhiraj Seth",
-    "General N. S. Raja Subramani",
-    "Admiral Krishna Swaminathan",
-    "Air Chief Marshal Ashutosh Dixit"
+    "S. Somanath",
+    "V. Narayanan",
+    "K. Sivan",
+    "A. S. Kiran Kumar"
    ],
    "a": 1,
-   "e": "General N. S. Raja Subramani became the third CDS on 31 May 2026; General Dhiraj Seth took over as Army chief on 30 June."
+   "e": "V. Narayanan is Chairman of ISRO and Secretary, Department of Space."
   },
   {
-   "q": "Who was appointed Chief of the Air Staff in October 2026?",
+   "q": "GSLV-F18, launched on 30 October 2026, carried which satellite?",
    "o": [
-    "Air Chief Marshal A. P. Singh",
-    "Air Chief Marshal V. R. Chaudhari",
-    "Air Chief Marshal Ashutosh Dixit",
-    "Air Marshal R. K. S. Bhadauria"
-   ],
-   "a": 2,
-   "e": "Air Chief Marshal Ashutosh Dixit took charge as the 29th Chief of the Air Staff on 31 October 2026, succeeding Air Chief Marshal A. P. Singh."
-  },
-  {
-   "q": "Who is the Chief of the Naval Staff, who took charge on 31 May 2026?",
-   "o": [
-    "Admiral Krishna Swaminathan",
-    "Admiral R. Hari Kumar",
-    "Admiral Karambir Singh",
-    "Admiral Dinesh K. Tripathi"
+    "NVS-03, a navigation satellite",
+    "EOS-08, an earth observation satellite",
+    "GSAT-20, a communications satellite",
+    "Aditya-L2"
    ],
    "a": 0,
-   "e": "Admiral Krishna Swaminathan took over as the 27th Chief of the Naval Staff on 31 May 2026, the same day as the new CDS."
+   "e": "GSLV-F18 carried NVS-03, a second-generation navigation satellite, restoring the NavIC constellation to four satellites."
   },
   {
-   "q": "Who is the Chief of the Army Staff of India?",
+   "q": "ISRO's first uncrewed mission under the Gaganyaan programme is intended to:",
    "o": [
-    "General Upendra Dwivedi",
-    "General Manoj Pande",
-    "General Dhiraj Seth",
-    "General M. M. Naravane"
+    "land a rover near the lunar south pole",
+    "test the crew module and escape systems before a crewed flight",
+    "place a space station module in orbit",
+    "study the sun from the L1 point"
+   ],
+   "a": 1,
+   "e": "The G1 uncrewed mission tests the crew module, its parachutes and escape systems before Indian astronauts fly."
+  },
+  {
+   "q": "The target year set by India for commissioning the Bharatiya Antariksh Station is:",
+   "o": [
+    "2028",
+    "2030",
+    "2035",
+    "2040"
    ],
    "a": 2,
-   "e": "General Dhiraj Seth took charge as the 31st Chief of the Army Staff on 30 June 2026."
+   "e": "The Bharatiya Antariksh Station is targeted for 2035, with the first module planned by 2028, ahead of a crewed Moon landing by 2040."
   },
   {
-   "q": "Who is the Chief Justice of India?",
+   "q": "The 2026 Nobel Prize in Physiology or Medicine was awarded for:",
    "o": [
-    "Justice Sanjiv Khanna",
-    "Justice B. R. Gavai",
-    "Justice Surya Kant",
-    "Justice Hrishikesh Roy"
+    "the discovery of light-gated ion channels and optogenetics",
+    "the development of mRNA vaccines",
+    "the discovery of the hepatitis C virus",
+    "work on protein structure prediction"
+   ],
+   "a": 0,
+   "e": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honoured for optogenetics, which allows individual nerve cells to be switched on or off with light."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
+   "o": [
+    "the detection of gravitational waves",
+    "the IceCube Neutrino Observatory and high-energy astrophysical neutrinos",
+    "work on black holes",
+    "the invention of the blue LED"
+   ],
+   "a": 1,
+   "e": "Halzen was honoured for turning a cubic kilometre of Antarctic ice into the IceCube detector and for the discovery of high-energy neutrinos of astrophysical origin."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Chemistry recognised work on:",
+   "o": [
+    "quantum dots",
+    "click chemistry",
+    "non-linear effects and autocatalysis in asymmetric synthesis",
+    "lithium-ion batteries"
    ],
    "a": 2,
-   "e": "Justice Surya Kant is the 53rd Chief Justice of India, having taken office in November 2025."
+   "e": "Henri Kagan of France and Kenso Soai of Japan were honoured for explaining how living systems came to contain one of two mirror-image forms of a molecule."
   },
   {
-   "q": "Who is the Governor of the Reserve Bank of India?",
+   "q": "The 2026 Nobel Prize in Literature was awarded to:",
    "o": [
-    "Shaktikanta Das",
-    "Sanjay Malhotra",
-    "Urjit Patel",
-    "Michael Patra"
+    "Anne Carson",
+    "Han Kang",
+    "Jon Fosse",
+    "Abdulrazak Gurnah"
+   ],
+   "a": 0,
+   "e": "The Canadian poet and translator Anne Carson was honoured for an oeuvre in dialogue with the classical tradition."
+  },
+  {
+   "q": "The 2026 Nobel Peace Prize was awarded to Navi Pillay for:",
+   "o": [
+    "work on climate finance",
+    "efforts to promote peace and international law",
+    "reporting on conflict zones",
+    "work on disarmament"
    ],
    "a": 1,
-   "e": "Sanjay Malhotra is the 26th Governor of the RBI and chairs the Monetary Policy Committee."
+   "e": "Navanethem 'Navi' Pillay, the South African jurist, was honoured for her efforts to promote peace and international law."
   },
   {
-   "q": "Who is the Chief Election Commissioner of India?",
+   "q": "The 2026 Nobel Prize in Economic Sciences was awarded for work that produced:",
    "o": [
-    "Rajiv Kumar",
-    "Gyanesh Kumar",
-    "Sukhbir Singh Sandhu",
-    "Anup Chandra Pandey"
+    "the theory of comparative advantage",
+    "New Keynesian models of macroeconomic stabilisation",
+    "the efficient markets hypothesis",
+    "the theory of asymmetric information"
    ],
    "a": 1,
-   "e": "Gyanesh Kumar is the 26th Chief Election Commissioner. The Election Commission conducts elections to Parliament, State legislatures and the offices of President and Vice-President."
-  },
-  {
-   "q": "The Sixteenth Finance Commission, whose recommendations were accepted in the 2026-27 Budget, is chaired by:",
-   "o": [
-    "N. K. Singh",
-    "Arvind Panagariya",
-    "Y. V. Reddy",
-    "Vijay Kelkar"
-   ],
-   "a": 1,
-   "e": "Arvind Panagariya chairs the Sixteenth Finance Commission, which recommended retaining the States' vertical share of central taxes at 41 per cent."
-  },
-  {
-   "q": "In the 2026 Assembly elections, who became the first Bharatiya Janata Party Chief Minister of West Bengal?",
-   "o": [
-    "Dilip Ghosh",
-    "Suvendu Adhikari",
-    "Sukanta Majumdar",
-    "Mithun Chakraborty"
-   ],
-   "a": 1,
-   "e": "Suvendu Adhikari was sworn in on 9 May 2026 after the BJP won 207 of the 294 seats, ending Trinamool Congress rule since 2011."
-  },
-  {
-   "q": "Who became Chief Minister of Tamil Nadu in May 2026?",
-   "o": [
-    "M. K. Stalin",
-    "Edappadi K. Palaniswami",
-    "C. Joseph Vijay",
-    "Udhayanidhi Stalin"
-   ],
-   "a": 2,
-   "e": "Actor-politician C. Joseph Vijay of the Tamilaga Vettri Kazhagam was sworn in on 10 May 2026 after his party won 108 seats in the 234-member Assembly."
+   "e": "Robert E. Hall and Michael Woodford were honoured for the microeconomic foundations of macroeconomic stabilisation, used by central banks worldwide."
   }
  ]
 }
