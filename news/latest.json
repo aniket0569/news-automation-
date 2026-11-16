@@ -1,140 +1,140 @@
 {
- "date": "2026-11-15T16:48:50.439574+05:30",
- "label": "Sunday, 15 November 2026",
+ "date": "2026-11-16T17:20:09.870121+05:30",
+ "label": "Monday, 16 November 2026",
  "sources": "The Hindu",
  "news": [
   {
-   "h": "‘Alive’ to voters’ need to find their names on the electoral roll, ECI assures Supreme Court",
-   "catch": "Poll body says voters who shifted within the State need not submit Form 8; DEC oversight over IT Division in place",
+   "h": "Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases",
+   "catch": "Supreme Court took note of the submissions of Additional Solicitor General Aishwarya Bhati, appearing for the Centre, that not much progress has been made in pursuance of the orders passed by the apex court recently on setting up of special courts",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/alive-to-voters-need-to-find-their-names-on-the-electoral-roll-eci-assures-supreme-court/article71702627.ece"
+   "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece"
   },
   {
-   "h": "Karnataka High Court asks security, police organisations to review mental health policies for armed personnel",
-   "catch": "Justice Suraj Govindaraj passed the order while quashing the criminal proceedings against a 37-year-old CISF Sub-Inspector for attempting to kill herself in 2022 by using her service pistol while on duty in Mangaluru",
+   "h": "Karthigai Deepam lit only at deepa mandapam for over 150 years: Tamil Nadu government tells Supreme Court",
+   "catch": "There has never existed any established practice, custom, or even a prior claim of lighting the Karthigai Deepam on the summit of the Thirupparankundram Hill or at the stone pillar “now described as the deepathoon”, says govt.",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-asks-security-police-organisations-to-review-mental-health-policies-for-armed-personnel/article71702395.ece"
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-lit-only-at-deepa-mandapam-for-over-150-years-tn-tells-sc/article71705025.ece"
   },
   {
-   "h": "Bar Council of A.P. appeals to Centre not to proceed with Evening Courts proposal",
-   "catch": "It may be noted that the Central government proposed to set up Evening Courts in Andhra Pradesh, Bihar and Delhi in coordination with the respective High Courts on a pilot basis",
+   "h": "Supreme Court rejects plea against Maharashtra's rotation policy for reserved SC/ST seats in local bodies",
+   "catch": "A Bench comprising Justices Joymalya Bagchi and V. Mohana dismissed an appeal filed by Sau. Rupali Indrabhushan Sonde against the September 19, 2025, judgment of the Nagpur Bench of the Bombay High Court, saying, \"No voter or a candidate can have a vested right to have a constituency declared as a reserved seat for SCs or STs”",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/bar-council-of-ap-appeals-to-centre-not-to-proceed-with-evening-courts-proposal/article71704075.ece"
+   "url": "https://www.thehindu.com/news/national/maharashtra/supreme-court-rejects-plea-against-maharashtras-rotation-policy-for-reserved-scst-seats-in-local-bodies/article71707260.ece"
   }
  ],
  "quiz": [
   {
-   "q": "The Pralay missile, whose user trials concluded in November 2026, is a:",
+   "q": "Who took charge as the Chief of Defence Staff in May 2026?",
    "o": [
-    "surface-to-air missile",
-    "quasi-ballistic missile with a range of up to 500 km",
-    "submarine-launched ballistic missile",
-    "anti-tank guided missile"
+    "General Dhiraj Seth",
+    "General N. S. Raja Subramani",
+    "Admiral Krishna Swaminathan",
+    "Air Chief Marshal Ashutosh Dixit"
    ],
    "a": 1,
-   "e": "Pralay is a solid-fuelled quasi-ballistic missile with a range of up to 500 km that can manoeuvre in flight to evade defences."
+   "e": "General N. S. Raja Subramani became the third CDS on 31 May 2026; General Dhiraj Seth took over as Army chief on 30 June."
   },
   {
-   "q": "The Pralay user trial of November 2026 was conducted from:",
+   "q": "Who was appointed Chief of the Air Staff in October 2026?",
    "o": [
-    "Wheeler Island, now Dr APJ Abdul Kalam Island",
-    "Sriharikota",
-    "Pokhran",
-    "Balasore coast"
+    "Air Chief Marshal A. P. Singh",
+    "Air Chief Marshal V. R. Chaudhari",
+    "Air Chief Marshal Ashutosh Dixit",
+    "Air Marshal R. K. S. Bhadauria"
+   ],
+   "a": 2,
+   "e": "Air Chief Marshal Ashutosh Dixit took charge as the 29th Chief of the Air Staff on 31 October 2026, succeeding Air Chief Marshal A. P. Singh."
+  },
+  {
+   "q": "Who is the Chief of the Naval Staff, who took charge on 31 May 2026?",
+   "o": [
+    "Admiral Krishna Swaminathan",
+    "Admiral R. Hari Kumar",
+    "Admiral Karambir Singh",
+    "Admiral Dinesh K. Tripathi"
    ],
    "a": 0,
-   "e": "The launch took place from Dr APJ Abdul Kalam Island off the Odisha coast, with range instruments at Chandipur tracking it."
+   "e": "Admiral Krishna Swaminathan took over as the 27th Chief of the Naval Staff on 31 May 2026, the same day as the new CDS."
   },
   {
-   "q": "Pralay is developed by which organisation?",
+   "q": "Who is the Chief of the Army Staff of India?",
    "o": [
-    "ISRO",
-    "DRDO",
-    "HAL",
-    "BARC"
+    "General Upendra Dwivedi",
+    "General Manoj Pande",
+    "General Dhiraj Seth",
+    "General M. M. Naravane"
+   ],
+   "a": 2,
+   "e": "General Dhiraj Seth took charge as the 31st Chief of the Army Staff on 30 June 2026."
+  },
+  {
+   "q": "Who is the Chief Justice of India?",
+   "o": [
+    "Justice Sanjiv Khanna",
+    "Justice B. R. Gavai",
+    "Justice Surya Kant",
+    "Justice Hrishikesh Roy"
+   ],
+   "a": 2,
+   "e": "Justice Surya Kant is the 53rd Chief Justice of India, having taken office in November 2025."
+  },
+  {
+   "q": "Who is the Governor of the Reserve Bank of India?",
+   "o": [
+    "Shaktikanta Das",
+    "Sanjay Malhotra",
+    "Urjit Patel",
+    "Michael Patra"
    ],
    "a": 1,
-   "e": "Pralay has been developed by the Defence Research and Development Organisation."
+   "e": "Sanjay Malhotra is the 26th Governor of the RBI and chairs the Monetary Policy Committee."
   },
   {
-   "q": "Exercise MILAN 2026, hosted by the Indian Navy at Visakhapatnam, was accompanied by:",
+   "q": "Who is the Chief Election Commissioner of India?",
    "o": [
-    "an International Fleet Review",
-    "a joint army exercise",
-    "an air force firepower demonstration",
-    "a coast guard tribunal"
+    "Rajiv Kumar",
+    "Gyanesh Kumar",
+    "Sukhbir Singh Sandhu",
+    "Anup Chandra Pandey"
    ],
-   "a": 0,
-   "e": "MILAN 2026 was held alongside an International Fleet Review at Visakhapatnam in February 2026, with 74 nations taking part."
+   "a": 1,
+   "e": "Gyanesh Kumar is the 26th Chief Election Commissioner. The Election Commission conducts elections to Parliament, State legislatures and the offices of President and Vice-President."
   },
   {
-   "q": "The International Fleet Review held in February 2026 was India's:",
+   "q": "The Sixteenth Finance Commission, whose recommendations were accepted in the 2026-27 Budget, is chaired by:",
    "o": [
-    "first",
-    "second",
-    "third",
-    "fifth"
+    "N. K. Singh",
+    "Arvind Panagariya",
+    "Y. V. Reddy",
+    "Vijay Kelkar"
    ],
-   "a": 2,
-   "e": "India had held fleet reviews in 2001 and 2016; the 2026 review at Visakhapatnam was the third."
+   "a": 1,
+   "e": "Arvind Panagariya chairs the Sixteenth Finance Commission, which recommended retaining the States' vertical share of central taxes at 41 per cent."
   },
   {
-   "q": "Exercise PRAGATI 2026, held at Umroi in Meghalaya, was a maiden exercise involving:",
+   "q": "In the 2026 Assembly elections, who became the first Bharatiya Janata Party Chief Minister of West Bengal?",
    "o": [
-    "armies of Indian Ocean Region countries",
-    "navies of the Quad",
-    "air forces of ASEAN",
-    "special forces of the SCO"
+    "Dilip Ghosh",
+    "Suvendu Adhikari",
+    "Sukanta Majumdar",
+    "Mithun Chakraborty"
    ],
-   "a": 0,
-   "e": "PRAGATI 2026 was the first table-top and field training exercise among armies of Indian Ocean Region countries."
+   "a": 1,
+   "e": "Suvendu Adhikari was sworn in on 9 May 2026 after the BJP won 207 of the 294 seats, ending Trinamool Congress rule since 2011."
   },
   {
-   "q": "Exercise Tarang Shakti 2026, the second edition of India's multinational air exercise, was held at:",
+   "q": "Who became Chief Minister of Tamil Nadu in May 2026?",
    "o": [
-    "Jodhpur",
-    "Gwalior",
-    "Tezpur",
-    "Sulur"
-   ],
-   "a": 0,
-   "e": "The second edition was held at Jodhpur with the theme 'Power in Partnership'."
-  },
-  {
-   "q": "Exercise Yudh Abhyas is conducted between India and:",
-   "o": [
-    "the United States",
-    "Russia",
-    "Japan",
-    "France"
-   ],
-   "a": 0,
-   "e": "Yudh Abhyas is the India-United States army exercise; its 22nd edition was held in 2026."
-  },
-  {
-   "q": "INS Nipun, commissioned in 2026, belongs to which class of vessels?",
-   "o": [
-    "Nistar-class diving support vessels",
-    "Arihant-class submarines",
-    "Visakhapatnam-class destroyers",
-    "Kamorta-class corvettes"
-   ],
-   "a": 0,
-   "e": "INS Nipun is the second of the Nistar-class diving support vessels, commissioned at Mumbai."
-  },
-  {
-   "q": "India took over the chairmanship of the Indian Ocean Naval Symposium for the term:",
-   "o": [
-    "2024-26",
-    "2025-27",
-    "2026-28",
-    "2027-29"
+    "M. K. Stalin",
+    "Edappadi K. Palaniswami",
+    "C. Joseph Vijay",
+    "Udhayanidhi Stalin"
    ],
    "a": 2,
-   "e": "India assumed the IONS chairmanship for 2026-28, sixteen years after hosting the forum."
+   "e": "Actor-politician C. Joseph Vijay of the Tamilaga Vettri Kazhagam was sworn in on 10 May 2026 after his party won 108 seats in the 234-member Assembly."
   }
  ]
 }
