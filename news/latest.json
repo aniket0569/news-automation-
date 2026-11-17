@@ -1,28 +1,42 @@
 {
- "date": "2026-11-16T17:20:09.870121+05:30",
- "label": "Monday, 16 November 2026",
- "sources": "The Hindu",
+ "date": "2026-11-17T17:41:12.557265+05:30",
+ "label": "Tuesday, 17 November 2026",
+ "sources": "Indian Express · The Hindu",
  "news": [
   {
-   "h": "Supreme Court asks Centre, States to file status reports on setting up of special courts to hear NDPS Act cases",
-   "catch": "Supreme Court took note of the submissions of Additional Solicitor General Aishwarya Bhati, appearing for the Centre, that not much progress has been made in pursuance of the orders passed by the apex court recently on setting up of special courts",
+   "h": "Rahul Gandhi questions EC’s ‘unanimous’ SIR decision ahead of Supreme Court hearing",
+   "catch": "A day before the Supreme Court resumes hearing challenges to the Election Commission’s Special Intensive Revision (SIR) exercise, Rahul Gandhi has questioned the poll body’s claim that the programme was approved unanimously by all three Election Commissioners.",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/supreme-court-asks-centre-states-to-file-status-reports-on-setting-up-of-special-courts-to-hear-ndps-act-cases/article71707052.ece"
+   "url": "https://www.thehindu.com/videos/rahul-gandhi-questions-ecs-unanimous-sir-decision-ahead-of-supreme-court-hearing/article71711230.ece"
   },
   {
-   "h": "Karthigai Deepam lit only at deepa mandapam for over 150 years: Tamil Nadu government tells Supreme Court",
-   "catch": "There has never existed any established practice, custom, or even a prior claim of lighting the Karthigai Deepam on the summit of the Thirupparankundram Hill or at the stone pillar “now described as the deepathoon”, says govt.",
+   "h": "SIR row: Supreme Court agrees to hear INDIA bloc’s ‘interrogatories’ on ‘nationwide SIR’, CEC",
+   "catch": "The affidavit asserted that the massive exercise (SIR), in which approximately 13 crore voters were excluded, was a unanimous decision of the ECI",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/tamil-nadu/karthigai-deepam-lit-only-at-deepa-mandapam-for-over-150-years-tn-tells-sc/article71705025.ece"
+   "url": "https://www.thehindu.com/news/national/sir-row-supreme-court-to-hear-rahul-gandhis-application-on-december-9/article71710964.ece"
   },
   {
-   "h": "Supreme Court rejects plea against Maharashtra's rotation policy for reserved SC/ST seats in local bodies",
-   "catch": "A Bench comprising Justices Joymalya Bagchi and V. Mohana dismissed an appeal filed by Sau. Rupali Indrabhushan Sonde against the September 19, 2025, judgment of the Nagpur Bench of the Bombay High Court, saying, \"No voter or a candidate can have a vested right to have a constituency declared as a reserved seat for SCs or STs”",
+   "h": "Form 6, voter roll deletions: What Election Commission told the Supreme Court",
+   "catch": "Form 6, voter roll deletions: What Election Commission told the Supreme Court",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "Indian Express",
+   "url": "https://indianexpress.com/article/explained/ec-counter-affidavit-form-6-sir-voter-rolls-explained-10938654/"
+  },
+  {
+   "h": "Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’",
+   "catch": "He urged the RBI to enforce strict listing timelines and prevent any breakup of the group, while calling on the government and Charity Commissioner to safeguard the trusts’ founding objectives.",
+   "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/maharashtra/supreme-court-rejects-plea-against-maharashtras-rotation-policy-for-reserved-scst-seats-in-local-bodies/article71707260.ece"
+   "url": "https://www.thehindu.com/business/Industry/jimmy-tata-backs-tata-sons-listing-accuses-noel-of-back-door-takeover/article71708314.ece"
+  },
+  {
+   "h": "‘I am scared once again’: Bilkis Bano on Supreme Court granting bail to 2 convicts",
+   "catch": "‘I am scared once again’: Bilkis Bano on Supreme Court granting bail to 2 convicts",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "Indian Express",
+   "url": "https://indianexpress.com/article/india/bilkis-bano-supreme-court-bail-2-convicts-gangrape-2002-gujarat-riots-10966456/"
   }
  ],
  "quiz": [
