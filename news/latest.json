@@ -1,154 +1,140 @@
 {
- "date": "2026-11-17T17:41:12.557265+05:30",
- "label": "Tuesday, 17 November 2026",
- "sources": "Indian Express · The Hindu",
+ "date": "2026-11-18T17:29:51.090718+05:30",
+ "label": "Wednesday, 18 November 2026",
+ "sources": "The Hindu",
  "news": [
   {
-   "h": "Rahul Gandhi questions EC’s ‘unanimous’ SIR decision ahead of Supreme Court hearing",
-   "catch": "A day before the Supreme Court resumes hearing challenges to the Election Commission’s Special Intensive Revision (SIR) exercise, Rahul Gandhi has questioned the poll body’s claim that the programme was approved unanimously by all three Election Commissioners.",
+   "h": "Bombay High Court quashes ICICI Bank’s nod to prosecute ex-CEO Chanda Kochhar in ‘loan fraud’ case",
+   "catch": "The Bombay HC passed the order on a petition filed by former ICICI Bank CEO Chanda Kochhar, claiming that the bank had not followed proper procedure while granting sanction to prosecute her",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/videos/rahul-gandhi-questions-ecs-unanimous-sir-decision-ahead-of-supreme-court-hearing/article71711230.ece"
+   "url": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece"
   },
   {
-   "h": "SIR row: Supreme Court agrees to hear INDIA bloc’s ‘interrogatories’ on ‘nationwide SIR’, CEC",
-   "catch": "The affidavit asserted that the massive exercise (SIR), in which approximately 13 crore voters were excluded, was a unanimous decision of the ECI",
-   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "h": "Rupee rises 24 paise to 93.27 against U.S. dollar in early trade",
+   "catch": "Forex traders said the appreciation in the rupee was primarily fuelled by a steep overnight drop in Brent crude oil prices, which eases India's import bill and inflation concerns",
+   "why": "How a law is made, and which list or Article it draws its power from.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/sir-row-supreme-court-to-hear-rahul-gandhis-application-on-december-9/article71710964.ece"
+   "url": "https://www.thehindu.com/business/markets/rupee-vs-dollar-on-november-18-2026-forex-markets/article71714482.ece"
   },
   {
-   "h": "Form 6, voter roll deletions: What Election Commission told the Supreme Court",
-   "catch": "Form 6, voter roll deletions: What Election Commission told the Supreme Court",
-   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
-   "src": "Indian Express",
-   "url": "https://indianexpress.com/article/explained/ec-counter-affidavit-form-6-sir-voter-rolls-explained-10938654/"
-  },
-  {
-   "h": "Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’",
-   "catch": "He urged the RBI to enforce strict listing timelines and prevent any breakup of the group, while calling on the government and Charity Commissioner to safeguard the trusts’ founding objectives.",
-   "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
+   "h": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+   "catch": "The two-day visit comes a day after the Quad leaders' summit in Manila, Philippines and as India hosts a joint humanitarian assistance and disaster relief (HADR) exercise involving the four member countries",
+   "why": "Defence: the platform, the agency that built it, and what it replaces.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/business/Industry/jimmy-tata-backs-tata-sons-listing-accuses-noel-of-back-door-takeover/article71708314.ece"
-  },
-  {
-   "h": "‘I am scared once again’: Bilkis Bano on Supreme Court granting bail to 2 convicts",
-   "catch": "‘I am scared once again’: Bilkis Bano on Supreme Court granting bail to 2 convicts",
-   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
-   "src": "Indian Express",
-   "url": "https://indianexpress.com/article/india/bilkis-bano-supreme-court-bail-2-convicts-gangrape-2002-gujarat-riots-10966456/"
+   "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece"
   }
  ],
  "quiz": [
   {
-   "q": "Who took charge as the Chief of Defence Staff in May 2026?",
+   "q": "The Pralay missile, whose user trials concluded in November 2026, is a:",
    "o": [
-    "General Dhiraj Seth",
-    "General N. S. Raja Subramani",
-    "Admiral Krishna Swaminathan",
-    "Air Chief Marshal Ashutosh Dixit"
+    "surface-to-air missile",
+    "quasi-ballistic missile with a range of up to 500 km",
+    "submarine-launched ballistic missile",
+    "anti-tank guided missile"
    ],
    "a": 1,
-   "e": "General N. S. Raja Subramani became the third CDS on 31 May 2026; General Dhiraj Seth took over as Army chief on 30 June."
+   "e": "Pralay is a solid-fuelled quasi-ballistic missile with a range of up to 500 km that can manoeuvre in flight to evade defences."
   },
   {
-   "q": "Who was appointed Chief of the Air Staff in October 2026?",
+   "q": "The Pralay user trial of November 2026 was conducted from:",
    "o": [
-    "Air Chief Marshal A. P. Singh",
-    "Air Chief Marshal V. R. Chaudhari",
-    "Air Chief Marshal Ashutosh Dixit",
-    "Air Marshal R. K. S. Bhadauria"
-   ],
-   "a": 2,
-   "e": "Air Chief Marshal Ashutosh Dixit took charge as the 29th Chief of the Air Staff on 31 October 2026, succeeding Air Chief Marshal A. P. Singh."
-  },
-  {
-   "q": "Who is the Chief of the Naval Staff, who took charge on 31 May 2026?",
-   "o": [
-    "Admiral Krishna Swaminathan",
-    "Admiral R. Hari Kumar",
-    "Admiral Karambir Singh",
-    "Admiral Dinesh K. Tripathi"
+    "Wheeler Island, now Dr APJ Abdul Kalam Island",
+    "Sriharikota",
+    "Pokhran",
+    "Balasore coast"
    ],
    "a": 0,
-   "e": "Admiral Krishna Swaminathan took over as the 27th Chief of the Naval Staff on 31 May 2026, the same day as the new CDS."
+   "e": "The launch took place from Dr APJ Abdul Kalam Island off the Odisha coast, with range instruments at Chandipur tracking it."
   },
   {
-   "q": "Who is the Chief of the Army Staff of India?",
+   "q": "Pralay is developed by which organisation?",
    "o": [
-    "General Upendra Dwivedi",
-    "General Manoj Pande",
-    "General Dhiraj Seth",
-    "General M. M. Naravane"
+    "ISRO",
+    "DRDO",
+    "HAL",
+    "BARC"
+   ],
+   "a": 1,
+   "e": "Pralay has been developed by the Defence Research and Development Organisation."
+  },
+  {
+   "q": "Exercise MILAN 2026, hosted by the Indian Navy at Visakhapatnam, was accompanied by:",
+   "o": [
+    "an International Fleet Review",
+    "a joint army exercise",
+    "an air force firepower demonstration",
+    "a coast guard tribunal"
+   ],
+   "a": 0,
+   "e": "MILAN 2026 was held alongside an International Fleet Review at Visakhapatnam in February 2026, with 74 nations taking part."
+  },
+  {
+   "q": "The International Fleet Review held in February 2026 was India's:",
+   "o": [
+    "first",
+    "second",
+    "third",
+    "fifth"
    ],
    "a": 2,
-   "e": "General Dhiraj Seth took charge as the 31st Chief of the Army Staff on 30 June 2026."
+   "e": "India had held fleet reviews in 2001 and 2016; the 2026 review at Visakhapatnam was the third."
   },
   {
-   "q": "Who is the Chief Justice of India?",
+   "q": "Exercise PRAGATI 2026, held at Umroi in Meghalaya, was a maiden exercise involving:",
    "o": [
-    "Justice Sanjiv Khanna",
-    "Justice B. R. Gavai",
-    "Justice Surya Kant",
-    "Justice Hrishikesh Roy"
+    "armies of Indian Ocean Region countries",
+    "navies of the Quad",
+    "air forces of ASEAN",
+    "special forces of the SCO"
+   ],
+   "a": 0,
+   "e": "PRAGATI 2026 was the first table-top and field training exercise among armies of Indian Ocean Region countries."
+  },
+  {
+   "q": "Exercise Tarang Shakti 2026, the second edition of India's multinational air exercise, was held at:",
+   "o": [
+    "Jodhpur",
+    "Gwalior",
+    "Tezpur",
+    "Sulur"
+   ],
+   "a": 0,
+   "e": "The second edition was held at Jodhpur with the theme 'Power in Partnership'."
+  },
+  {
+   "q": "Exercise Yudh Abhyas is conducted between India and:",
+   "o": [
+    "the United States",
+    "Russia",
+    "Japan",
+    "France"
+   ],
+   "a": 0,
+   "e": "Yudh Abhyas is the India-United States army exercise; its 22nd edition was held in 2026."
+  },
+  {
+   "q": "INS Nipun, commissioned in 2026, belongs to which class of vessels?",
+   "o": [
+    "Nistar-class diving support vessels",
+    "Arihant-class submarines",
+    "Visakhapatnam-class destroyers",
+    "Kamorta-class corvettes"
+   ],
+   "a": 0,
+   "e": "INS Nipun is the second of the Nistar-class diving support vessels, commissioned at Mumbai."
+  },
+  {
+   "q": "India took over the chairmanship of the Indian Ocean Naval Symposium for the term:",
+   "o": [
+    "2024-26",
+    "2025-27",
+    "2026-28",
+    "2027-29"
    ],
    "a": 2,
-   "e": "Justice Surya Kant is the 53rd Chief Justice of India, having taken office in November 2025."
-  },
-  {
-   "q": "Who is the Governor of the Reserve Bank of India?",
-   "o": [
-    "Shaktikanta Das",
-    "Sanjay Malhotra",
-    "Urjit Patel",
-    "Michael Patra"
-   ],
-   "a": 1,
-   "e": "Sanjay Malhotra is the 26th Governor of the RBI and chairs the Monetary Policy Committee."
-  },
-  {
-   "q": "Who is the Chief Election Commissioner of India?",
-   "o": [
-    "Rajiv Kumar",
-    "Gyanesh Kumar",
-    "Sukhbir Singh Sandhu",
-    "Anup Chandra Pandey"
-   ],
-   "a": 1,
-   "e": "Gyanesh Kumar is the 26th Chief Election Commissioner. The Election Commission conducts elections to Parliament, State legislatures and the offices of President and Vice-President."
-  },
-  {
-   "q": "The Sixteenth Finance Commission, whose recommendations were accepted in the 2026-27 Budget, is chaired by:",
-   "o": [
-    "N. K. Singh",
-    "Arvind Panagariya",
-    "Y. V. Reddy",
-    "Vijay Kelkar"
-   ],
-   "a": 1,
-   "e": "Arvind Panagariya chairs the Sixteenth Finance Commission, which recommended retaining the States' vertical share of central taxes at 41 per cent."
-  },
-  {
-   "q": "In the 2026 Assembly elections, who became the first Bharatiya Janata Party Chief Minister of West Bengal?",
-   "o": [
-    "Dilip Ghosh",
-    "Suvendu Adhikari",
-    "Sukanta Majumdar",
-    "Mithun Chakraborty"
-   ],
-   "a": 1,
-   "e": "Suvendu Adhikari was sworn in on 9 May 2026 after the BJP won 207 of the 294 seats, ending Trinamool Congress rule since 2011."
-  },
-  {
-   "q": "Who became Chief Minister of Tamil Nadu in May 2026?",
-   "o": [
-    "M. K. Stalin",
-    "Edappadi K. Palaniswami",
-    "C. Joseph Vijay",
-    "Udhayanidhi Stalin"
-   ],
-   "a": 2,
-   "e": "Actor-politician C. Joseph Vijay of the Tamilaga Vettri Kazhagam was sworn in on 10 May 2026 after his party won 108 seats in the 234-member Assembly."
+   "e": "India assumed the IONS chairmanship for 2026-28, sixteen years after hosting the forum."
   }
  ]
 }

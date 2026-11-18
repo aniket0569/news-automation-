@@ -1,0 +1,140 @@
+{
+ "date": "2026-11-18T17:29:51.090718+05:30",
+ "label": "Wednesday, 18 November 2026",
+ "sources": "The Hindu",
+ "news": [
+  {
+   "h": "Bombay High Court quashes ICICI Bank’s nod to prosecute ex-CEO Chanda Kochhar in ‘loan fraud’ case",
+   "catch": "The Bombay HC passed the order on a petition filed by former ICICI Bank CEO Chanda Kochhar, claiming that the bank had not followed proper procedure while granting sanction to prosecute her",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece"
+  },
+  {
+   "h": "Rupee rises 24 paise to 93.27 against U.S. dollar in early trade",
+   "catch": "Forex traders said the appreciation in the rupee was primarily fuelled by a steep overnight drop in Brent crude oil prices, which eases India's import bill and inflation concerns",
+   "why": "How a law is made, and which list or Article it draws its power from.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/business/markets/rupee-vs-dollar-on-november-18-2026-forex-markets/article71714482.ece"
+  },
+  {
+   "h": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
+   "catch": "The two-day visit comes a day after the Quad leaders' summit in Manila, Philippines and as India hosts a joint humanitarian assistance and disaster relief (HADR) exercise involving the four member countries",
+   "why": "Defence: the platform, the agency that built it, and what it replaces.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece"
+  }
+ ],
+ "quiz": [
+  {
+   "q": "The Pralay missile, whose user trials concluded in November 2026, is a:",
+   "o": [
+    "surface-to-air missile",
+    "quasi-ballistic missile with a range of up to 500 km",
+    "submarine-launched ballistic missile",
+    "anti-tank guided missile"
+   ],
+   "a": 1,
+   "e": "Pralay is a solid-fuelled quasi-ballistic missile with a range of up to 500 km that can manoeuvre in flight to evade defences."
+  },
+  {
+   "q": "The Pralay user trial of November 2026 was conducted from:",
+   "o": [
+    "Wheeler Island, now Dr APJ Abdul Kalam Island",
+    "Sriharikota",
+    "Pokhran",
+    "Balasore coast"
+   ],
+   "a": 0,
+   "e": "The launch took place from Dr APJ Abdul Kalam Island off the Odisha coast, with range instruments at Chandipur tracking it."
+  },
+  {
+   "q": "Pralay is developed by which organisation?",
+   "o": [
+    "ISRO",
+    "DRDO",
+    "HAL",
+    "BARC"
+   ],
+   "a": 1,
+   "e": "Pralay has been developed by the Defence Research and Development Organisation."
+  },
+  {
+   "q": "Exercise MILAN 2026, hosted by the Indian Navy at Visakhapatnam, was accompanied by:",
+   "o": [
+    "an International Fleet Review",
+    "a joint army exercise",
+    "an air force firepower demonstration",
+    "a coast guard tribunal"
+   ],
+   "a": 0,
+   "e": "MILAN 2026 was held alongside an International Fleet Review at Visakhapatnam in February 2026, with 74 nations taking part."
+  },
+  {
+   "q": "The International Fleet Review held in February 2026 was India's:",
+   "o": [
+    "first",
+    "second",
+    "third",
+    "fifth"
+   ],
+   "a": 2,
+   "e": "India had held fleet reviews in 2001 and 2016; the 2026 review at Visakhapatnam was the third."
+  },
+  {
+   "q": "Exercise PRAGATI 2026, held at Umroi in Meghalaya, was a maiden exercise involving:",
+   "o": [
+    "armies of Indian Ocean Region countries",
+    "navies of the Quad",
+    "air forces of ASEAN",
+    "special forces of the SCO"
+   ],
+   "a": 0,
+   "e": "PRAGATI 2026 was the first table-top and field training exercise among armies of Indian Ocean Region countries."
+  },
+  {
+   "q": "Exercise Tarang Shakti 2026, the second edition of India's multinational air exercise, was held at:",
+   "o": [
+    "Jodhpur",
+    "Gwalior",
+    "Tezpur",
+    "Sulur"
+   ],
+   "a": 0,
+   "e": "The second edition was held at Jodhpur with the theme 'Power in Partnership'."
+  },
+  {
+   "q": "Exercise Yudh Abhyas is conducted between India and:",
+   "o": [
+    "the United States",
+    "Russia",
+    "Japan",
+    "France"
+   ],
+   "a": 0,
+   "e": "Yudh Abhyas is the India-United States army exercise; its 22nd edition was held in 2026."
+  },
+  {
+   "q": "INS Nipun, commissioned in 2026, belongs to which class of vessels?",
+   "o": [
+    "Nistar-class diving support vessels",
+    "Arihant-class submarines",
+    "Visakhapatnam-class destroyers",
+    "Kamorta-class corvettes"
+   ],
+   "a": 0,
+   "e": "INS Nipun is the second of the Nistar-class diving support vessels, commissioned at Mumbai."
+  },
+  {
+   "q": "India took over the chairmanship of the Indian Ocean Naval Symposium for the term:",
+   "o": [
+    "2024-26",
+    "2025-27",
+    "2026-28",
+    "2027-29"
+   ],
+   "a": 2,
+   "e": "India assumed the IONS chairmanship for 2026-28, sixteen years after hosting the forum."
+  }
+ ]
+}
