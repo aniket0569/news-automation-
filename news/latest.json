@@ -1,140 +1,140 @@
 {
- "date": "2026-11-18T17:29:51.090718+05:30",
- "label": "Wednesday, 18 November 2026",
+ "date": "2026-11-19T17:26:47.670670+05:30",
+ "label": "Thursday, 19 November 2026",
  "sources": "The Hindu",
  "news": [
   {
-   "h": "Bombay High Court quashes ICICI Bank’s nod to prosecute ex-CEO Chanda Kochhar in ‘loan fraud’ case",
-   "catch": "The Bombay HC passed the order on a petition filed by former ICICI Bank CEO Chanda Kochhar, claiming that the bank had not followed proper procedure while granting sanction to prosecute her",
+   "h": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
+   "catch": "As India embarks on its first manned space mission, developing indigenous capabilities in crew selection and training not only lays the foundation for sustained space activities but also gives an impetus to bioastronautics — the study of behavioural, and medical aspects of humans living in space",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece"
+  },
+  {
+   "h": "Kerala High Court quashes disproportionate assets case against Minister K.M. Shaji",
+   "catch": "The complainant had alleged that the IUML leader used a ₹25 lakh ‘bribe’ he received from an aided school management for sanctioning additional plus two courses; also said a portion of the sum was used to build a house",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece"
+   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-quashes-disproportionate-assets-case-against-minister-km-shaji/article71719023.ece"
   },
   {
-   "h": "Rupee rises 24 paise to 93.27 against U.S. dollar in early trade",
-   "catch": "Forex traders said the appreciation in the rupee was primarily fuelled by a steep overnight drop in Brent crude oil prices, which eases India's import bill and inflation concerns",
+   "h": "COP31 must not leave the next generation with a climate bill",
+   "catch": "As the climate summit enters its final week in Antalya, developing countries are still fighting for the finance they were promised",
    "why": "How a law is made, and which list or Article it draws its power from.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/business/markets/rupee-vs-dollar-on-november-18-2026-forex-markets/article71714482.ece"
-  },
-  {
-   "h": "India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo",
-   "catch": "The two-day visit comes a day after the Quad leaders' summit in Manila, Philippines and as India hosts a joint humanitarian assistance and disaster relief (HADR) exercise involving the four member countries",
-   "why": "Defence: the platform, the agency that built it, and what it replaces.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece"
+   "url": "https://www.thehindu.com/opinion/op-ed/cop31-must-not-leave-the-next-generation-with-a-climate-bill/article71717177.ece"
   }
  ],
  "quiz": [
   {
-   "q": "The Pralay missile, whose user trials concluded in November 2026, is a:",
+   "q": "At its meeting in October 2026, the Monetary Policy Committee raised the repo rate by 25 basis points to:",
    "o": [
-    "surface-to-air missile",
-    "quasi-ballistic missile with a range of up to 500 km",
-    "submarine-launched ballistic missile",
-    "anti-tank guided missile"
+    "5.25 per cent",
+    "5.50 per cent",
+    "6.00 per cent",
+    "6.50 per cent"
    ],
    "a": 1,
-   "e": "Pralay is a solid-fuelled quasi-ballistic missile with a range of up to 500 km that can manoeuvre in flight to evade defences."
+   "e": "The 63rd MPC meeting, held from 5 to 7 October 2026, raised the repo rate to 5.50 per cent - the first increase in nearly four years."
   },
   {
-   "q": "The Pralay user trial of November 2026 was conducted from:",
+   "q": "What stance did the Monetary Policy Committee adopt in October 2026?",
    "o": [
-    "Wheeler Island, now Dr APJ Abdul Kalam Island",
-    "Sriharikota",
-    "Pokhran",
-    "Balasore coast"
+    "Accommodative",
+    "Neutral",
+    "Calibrated tightening",
+    "Withdrawal of accommodation"
    ],
-   "a": 0,
-   "e": "The launch took place from Dr APJ Abdul Kalam Island off the Odisha coast, with range instruments at Chandipur tracking it."
+   "a": 2,
+   "e": "The Committee changed its stance to 'calibrated tightening', having previously held a neutral stance."
   },
   {
-   "q": "Pralay is developed by which organisation?",
+   "q": "Following the October 2026 decision, the Standing Deposit Facility rate stands at:",
    "o": [
-    "ISRO",
-    "DRDO",
-    "HAL",
-    "BARC"
+    "5.00 per cent",
+    "5.25 per cent",
+    "5.50 per cent",
+    "5.75 per cent"
    ],
    "a": 1,
-   "e": "Pralay has been developed by the Defence Research and Development Organisation."
+   "e": "The SDF rate is set 25 basis points below the repo rate, at 5.25 per cent, while the MSF rate and Bank Rate stand at 5.75 per cent."
   },
   {
-   "q": "Exercise MILAN 2026, hosted by the Indian Navy at Visakhapatnam, was accompanied by:",
+   "q": "Real GDP growth in the first quarter of 2026-27, as estimated by the National Statistical Office, was:",
    "o": [
-    "an International Fleet Review",
-    "a joint army exercise",
-    "an air force firepower demonstration",
-    "a coast guard tribunal"
-   ],
-   "a": 0,
-   "e": "MILAN 2026 was held alongside an International Fleet Review at Visakhapatnam in February 2026, with 74 nations taking part."
-  },
-  {
-   "q": "The International Fleet Review held in February 2026 was India's:",
-   "o": [
-    "first",
-    "second",
-    "third",
-    "fifth"
+    "6.5 per cent",
+    "7.1 per cent",
+    "7.8 per cent",
+    "8.2 per cent"
    ],
    "a": 2,
-   "e": "India had held fleet reviews in 2001 and 2016; the 2026 review at Visakhapatnam was the third."
+   "e": "Q1 of 2026-27 recorded 7.8 per cent growth, higher than expected, as noted in the October 2026 monetary policy statement."
   },
   {
-   "q": "Exercise PRAGATI 2026, held at Umroi in Meghalaya, was a maiden exercise involving:",
+   "q": "In October 2026 the RBI projected GDP growth for 2026-27 at:",
    "o": [
-    "armies of Indian Ocean Region countries",
-    "navies of the Quad",
-    "air forces of ASEAN",
-    "special forces of the SCO"
-   ],
-   "a": 0,
-   "e": "PRAGATI 2026 was the first table-top and field training exercise among armies of Indian Ocean Region countries."
-  },
-  {
-   "q": "Exercise Tarang Shakti 2026, the second edition of India's multinational air exercise, was held at:",
-   "o": [
-    "Jodhpur",
-    "Gwalior",
-    "Tezpur",
-    "Sulur"
-   ],
-   "a": 0,
-   "e": "The second edition was held at Jodhpur with the theme 'Power in Partnership'."
-  },
-  {
-   "q": "Exercise Yudh Abhyas is conducted between India and:",
-   "o": [
-    "the United States",
-    "Russia",
-    "Japan",
-    "France"
-   ],
-   "a": 0,
-   "e": "Yudh Abhyas is the India-United States army exercise; its 22nd edition was held in 2026."
-  },
-  {
-   "q": "INS Nipun, commissioned in 2026, belongs to which class of vessels?",
-   "o": [
-    "Nistar-class diving support vessels",
-    "Arihant-class submarines",
-    "Visakhapatnam-class destroyers",
-    "Kamorta-class corvettes"
-   ],
-   "a": 0,
-   "e": "INS Nipun is the second of the Nistar-class diving support vessels, commissioned at Mumbai."
-  },
-  {
-   "q": "India took over the chairmanship of the Indian Ocean Naval Symposium for the term:",
-   "o": [
-    "2024-26",
-    "2025-27",
-    "2026-28",
-    "2027-29"
+    "6.5 per cent",
+    "6.8 per cent",
+    "7.1 per cent",
+    "7.6 per cent"
    ],
    "a": 2,
-   "e": "India assumed the IONS chairmanship for 2026-28, sixteen years after hosting the forum."
+   "e": "The projection for 2026-27 was raised to 7.1 per cent, reflecting strong net exports, government consumption and investment."
+  },
+  {
+   "q": "India's foreign exchange reserves stood at approximately which level in early October 2026?",
+   "o": [
+    "USD 634 billion",
+    "USD 684 billion",
+    "USD 734 billion",
+    "USD 834 billion"
+   ],
+   "a": 2,
+   "e": "Reserves were about USD 734.6 billion as on 2 October 2026, having peaked at about USD 785.7 billion in early September."
+  },
+  {
+   "q": "The fiscal deficit in the Budget Estimates for 2026-27 was placed at:",
+   "o": [
+    "4.0 per cent of GDP",
+    "4.3 per cent of GDP",
+    "4.4 per cent of GDP",
+    "4.9 per cent of GDP"
+   ],
+   "a": 1,
+   "e": "The fiscal deficit was estimated at 4.3 per cent of GDP for 2026-27, against 4.4 per cent in the Revised Estimates for 2025-26."
+  },
+  {
+   "q": "Public capital expenditure in the 2026-27 Budget was raised to:",
+   "o": [
+    "Rs. 10.2 lakh crore",
+    "Rs. 11.2 lakh crore",
+    "Rs. 12.2 lakh crore",
+    "Rs. 13.5 lakh crore"
+   ],
+   "a": 2,
+   "e": "Public capex was increased to Rs. 12.2 lakh crore for FY 2026-27, from Rs. 11.2 lakh crore in the 2025-26 Budget Estimates."
+  },
+  {
+   "q": "The debt-to-GDP ratio estimated in the 2026-27 Budget, against which the government has set a glide path, is:",
+   "o": [
+    "50.1 per cent",
+    "53.4 per cent",
+    "55.6 per cent",
+    "58.2 per cent"
+   ],
+   "a": 2,
+   "e": "Debt was estimated at 55.6 per cent of GDP for 2026-27, with a target of 50 plus or minus 1 per cent by 2030-31."
+  },
+  {
+   "q": "The 2026-27 Budget retained the States' vertical share of central taxes at:",
+   "o": [
+    "32 per cent",
+    "41 per cent",
+    "42 per cent",
+    "45 per cent"
+   ],
+   "a": 1,
+   "e": "On the Sixteenth Finance Commission's recommendation, the vertical devolution share was retained at 41 per cent."
   }
  ]
 }
