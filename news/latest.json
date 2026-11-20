@@ -1,8 +1,15 @@
 {
- "date": "2026-11-19T17:26:47.670670+05:30",
- "label": "Thursday, 19 November 2026",
+ "date": "2026-11-20T17:28:01.789347+05:30",
+ "label": "Friday, 20 November 2026",
  "sources": "The Hindu",
  "news": [
+  {
+   "h": "Keralam to procure 25,000 tonnes of rice from FCI for market intervention in December",
+   "catch": "The Food and Civil Supplies Department has sanctioned the purchase at a cost of ₹59.75 crore, which will be met from the budgetary allocation under the relevant head for the 2026-27 financial year",
+   "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/kerala/keralam-to-procure-25000-tonnes-of-rice-from-fci-for-market-interventionin-december/article71723657.ece"
+  },
   {
    "h": "How did ISRO pick astronaut candidates for the Gaganyaan mission?",
    "catch": "As India embarks on its first manned space mission, developing indigenous capabilities in crew selection and training not only lays the foundation for sustained space activities but also gives an impetus to bioastronautics — the study of behavioural, and medical aspects of humans living in space",
@@ -11,130 +18,123 @@
    "url": "https://www.thehindu.com/sci-tech/science/how-did-isro-pick-astronaut-candidates-for-the-gaganyaan-mission/article71707743.ece"
   },
   {
-   "h": "Kerala High Court quashes disproportionate assets case against Minister K.M. Shaji",
-   "catch": "The complainant had alleged that the IUML leader used a ₹25 lakh ‘bribe’ he received from an aided school management for sanctioning additional plus two courses; also said a portion of the sum was used to build a house",
+   "h": "Supreme Court dismisses Karnataka appeal against bike-taxis",
+   "catch": "A Bench headed by Justice Satish Chandra Sharma said regulation was better than a blanket ban",
    "why": "Constitutional law: which Article, which court, and what the ruling changes.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-quashes-disproportionate-assets-case-against-minister-km-shaji/article71719023.ece"
-  },
-  {
-   "h": "COP31 must not leave the next generation with a climate bill",
-   "catch": "As the climate summit enters its final week in Antalya, developing countries are still fighting for the finance they were promised",
-   "why": "How a law is made, and which list or Article it draws its power from.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/op-ed/cop31-must-not-leave-the-next-generation-with-a-climate-bill/article71717177.ece"
+   "url": "https://www.thehindu.com/news/national/karnataka/supreme-court-dismisses-karnataka-appeal-against-bike-taxis/article71723973.ece"
   }
  ],
  "quiz": [
   {
-   "q": "At its meeting in October 2026, the Monetary Policy Committee raised the repo rate by 25 basis points to:",
+   "q": "Who is the Chairman of the Indian Space Research Organisation?",
    "o": [
-    "5.25 per cent",
-    "5.50 per cent",
-    "6.00 per cent",
-    "6.50 per cent"
+    "S. Somanath",
+    "V. Narayanan",
+    "K. Sivan",
+    "A. S. Kiran Kumar"
    ],
    "a": 1,
-   "e": "The 63rd MPC meeting, held from 5 to 7 October 2026, raised the repo rate to 5.50 per cent - the first increase in nearly four years."
+   "e": "V. Narayanan is Chairman of ISRO and Secretary, Department of Space."
   },
   {
-   "q": "What stance did the Monetary Policy Committee adopt in October 2026?",
+   "q": "GSLV-F18, launched on 30 October 2026, carried which satellite?",
    "o": [
-    "Accommodative",
-    "Neutral",
-    "Calibrated tightening",
-    "Withdrawal of accommodation"
+    "NVS-03, a navigation satellite",
+    "EOS-08, an earth observation satellite",
+    "GSAT-20, a communications satellite",
+    "Aditya-L2"
    ],
-   "a": 2,
-   "e": "The Committee changed its stance to 'calibrated tightening', having previously held a neutral stance."
+   "a": 0,
+   "e": "GSLV-F18 carried NVS-03, a second-generation navigation satellite, restoring the NavIC constellation to four satellites."
   },
   {
-   "q": "Following the October 2026 decision, the Standing Deposit Facility rate stands at:",
+   "q": "ISRO's first uncrewed mission under the Gaganyaan programme is intended to:",
    "o": [
-    "5.00 per cent",
-    "5.25 per cent",
-    "5.50 per cent",
-    "5.75 per cent"
-   ],
-   "a": 1,
-   "e": "The SDF rate is set 25 basis points below the repo rate, at 5.25 per cent, while the MSF rate and Bank Rate stand at 5.75 per cent."
-  },
-  {
-   "q": "Real GDP growth in the first quarter of 2026-27, as estimated by the National Statistical Office, was:",
-   "o": [
-    "6.5 per cent",
-    "7.1 per cent",
-    "7.8 per cent",
-    "8.2 per cent"
-   ],
-   "a": 2,
-   "e": "Q1 of 2026-27 recorded 7.8 per cent growth, higher than expected, as noted in the October 2026 monetary policy statement."
-  },
-  {
-   "q": "In October 2026 the RBI projected GDP growth for 2026-27 at:",
-   "o": [
-    "6.5 per cent",
-    "6.8 per cent",
-    "7.1 per cent",
-    "7.6 per cent"
-   ],
-   "a": 2,
-   "e": "The projection for 2026-27 was raised to 7.1 per cent, reflecting strong net exports, government consumption and investment."
-  },
-  {
-   "q": "India's foreign exchange reserves stood at approximately which level in early October 2026?",
-   "o": [
-    "USD 634 billion",
-    "USD 684 billion",
-    "USD 734 billion",
-    "USD 834 billion"
-   ],
-   "a": 2,
-   "e": "Reserves were about USD 734.6 billion as on 2 October 2026, having peaked at about USD 785.7 billion in early September."
-  },
-  {
-   "q": "The fiscal deficit in the Budget Estimates for 2026-27 was placed at:",
-   "o": [
-    "4.0 per cent of GDP",
-    "4.3 per cent of GDP",
-    "4.4 per cent of GDP",
-    "4.9 per cent of GDP"
+    "land a rover near the lunar south pole",
+    "test the crew module and escape systems before a crewed flight",
+    "place a space station module in orbit",
+    "study the sun from the L1 point"
    ],
    "a": 1,
-   "e": "The fiscal deficit was estimated at 4.3 per cent of GDP for 2026-27, against 4.4 per cent in the Revised Estimates for 2025-26."
+   "e": "The G1 uncrewed mission tests the crew module, its parachutes and escape systems before Indian astronauts fly."
   },
   {
-   "q": "Public capital expenditure in the 2026-27 Budget was raised to:",
+   "q": "The target year set by India for commissioning the Bharatiya Antariksh Station is:",
    "o": [
-    "Rs. 10.2 lakh crore",
-    "Rs. 11.2 lakh crore",
-    "Rs. 12.2 lakh crore",
-    "Rs. 13.5 lakh crore"
+    "2028",
+    "2030",
+    "2035",
+    "2040"
    ],
    "a": 2,
-   "e": "Public capex was increased to Rs. 12.2 lakh crore for FY 2026-27, from Rs. 11.2 lakh crore in the 2025-26 Budget Estimates."
+   "e": "The Bharatiya Antariksh Station is targeted for 2035, with the first module planned by 2028, ahead of a crewed Moon landing by 2040."
   },
   {
-   "q": "The debt-to-GDP ratio estimated in the 2026-27 Budget, against which the government has set a glide path, is:",
+   "q": "The 2026 Nobel Prize in Physiology or Medicine was awarded for:",
    "o": [
-    "50.1 per cent",
-    "53.4 per cent",
-    "55.6 per cent",
-    "58.2 per cent"
+    "the discovery of light-gated ion channels and optogenetics",
+    "the development of mRNA vaccines",
+    "the discovery of the hepatitis C virus",
+    "work on protein structure prediction"
    ],
-   "a": 2,
-   "e": "Debt was estimated at 55.6 per cent of GDP for 2026-27, with a target of 50 plus or minus 1 per cent by 2030-31."
+   "a": 0,
+   "e": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honoured for optogenetics, which allows individual nerve cells to be switched on or off with light."
   },
   {
-   "q": "The 2026-27 Budget retained the States' vertical share of central taxes at:",
+   "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
    "o": [
-    "32 per cent",
-    "41 per cent",
-    "42 per cent",
-    "45 per cent"
+    "the detection of gravitational waves",
+    "the IceCube Neutrino Observatory and high-energy astrophysical neutrinos",
+    "work on black holes",
+    "the invention of the blue LED"
    ],
    "a": 1,
-   "e": "On the Sixteenth Finance Commission's recommendation, the vertical devolution share was retained at 41 per cent."
+   "e": "Halzen was honoured for turning a cubic kilometre of Antarctic ice into the IceCube detector and for the discovery of high-energy neutrinos of astrophysical origin."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Chemistry recognised work on:",
+   "o": [
+    "quantum dots",
+    "click chemistry",
+    "non-linear effects and autocatalysis in asymmetric synthesis",
+    "lithium-ion batteries"
+   ],
+   "a": 2,
+   "e": "Henri Kagan of France and Kenso Soai of Japan were honoured for explaining how living systems came to contain one of two mirror-image forms of a molecule."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Literature was awarded to:",
+   "o": [
+    "Anne Carson",
+    "Han Kang",
+    "Jon Fosse",
+    "Abdulrazak Gurnah"
+   ],
+   "a": 0,
+   "e": "The Canadian poet and translator Anne Carson was honoured for an oeuvre in dialogue with the classical tradition."
+  },
+  {
+   "q": "The 2026 Nobel Peace Prize was awarded to Navi Pillay for:",
+   "o": [
+    "work on climate finance",
+    "efforts to promote peace and international law",
+    "reporting on conflict zones",
+    "work on disarmament"
+   ],
+   "a": 1,
+   "e": "Navanethem 'Navi' Pillay, the South African jurist, was honoured for her efforts to promote peace and international law."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Economic Sciences was awarded for work that produced:",
+   "o": [
+    "the theory of comparative advantage",
+    "New Keynesian models of macroeconomic stabilisation",
+    "the efficient markets hypothesis",
+    "the theory of asymmetric information"
+   ],
+   "a": 1,
+   "e": "Robert E. Hall and Michael Woodford were honoured for the microeconomic foundations of macroeconomic stabilisation, used by central banks worldwide."
   }
  ]
 }
