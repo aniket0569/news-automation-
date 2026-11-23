@@ -1,154 +1,140 @@
 {
- "date": "2026-11-22T17:14:55.331916+05:30",
- "label": "Sunday, 22 November 2026",
- "sources": "Indian Express · The Hindu",
+ "date": "2026-11-23T18:52:42.999095+05:30",
+ "label": "Monday, 23 November 2026",
+ "sources": "The Hindu",
  "news": [
   {
-   "h": "Simon Commission and SIR exercise are similar: Revanth Reddy",
-   "catch": "Pointing out that Telangana had conducted an OBC caste census for the first time in nearly 100 years, he said the PAC should adopt a resolution urging the Union government to undertake a similar exercise nationally",
+   "h": "i-ALERT system helps Telangana RTC save 1.98 lakh litres diesel in a month, cut down emissions from buses",
+   "catch": "The i-ALERT keeps tabs on gear selection, overspeeding, braking practices, engine RPM and idling thus assisting drivers to adopt safer and more fuel-efficient driving methods.",
    "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/telangana/simon-commission-and-sir-exercise-are-similar-revanth-reddy/article71731117.ece"
+   "url": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece"
   },
   {
-   "h": "European Union proposes tax on Big Tech to boost budget",
-   "catch": "European Council president Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros a plan initially put forward by the European Commission",
-   "why": "How a law is made, and which list or Article it draws its power from.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/european-union-proposes-tax-on-big-tech-to-boost-budget/article71728111.ece"
-  },
-  {
-   "h": "Naidu asks coalition leaders to promote unanimous panchayat elections in Andhra Pradesh",
-   "catch": "Panchayats elected unanimously will get between ₹15 lakh and ₹50 lakh under the revised incentive scheme",
-   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-asks-coalition-leaders-to-promote-unanimous-panchayat-elections-in-andhra-pradesh/article71730926.ece"
-  },
-  {
-   "h": "Rupee much more flexible now, FX rate should be first line of defence: IMF’s Srinivasan",
-   "catch": "Rupee much more flexible now, FX rate should be first line of defence: IMF’s Srinivasan",
+   "h": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
+   "catch": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" on its surface",
    "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
-   "src": "Indian Express",
-   "url": "https://indianexpress.com/article/business/imf-krishna-srinivasan-interview-rupee-exchange-rate-ai-jobs-china-growth-10936751/"
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece"
   },
   {
-   "h": "GST officer throws Rs 1.5 lakh ‘bribe’ into drain on seeing ACB team",
-   "catch": "GST officer throws Rs 1.5 lakh ‘bribe’ into drain on seeing ACB team",
-   "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
-   "src": "Indian Express",
-   "url": "https://indianexpress.com/article/india/chhattisgarh-gst-officer-throw-rs-1-5-lakh-bribe-into-drain-acb-trap-kanker-10973509/"
+   "h": "West Bengal SIR: Supreme Court orders ECI, Calcutta High Court to increase Tribunals hearing appeals",
+   "catch": "The Tribunals were also directed to segregate the appeals filed by deleted voters from others and grant it urgent, first-priority hearing",
+   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-orders-eci-calcutta-high-court-to-increase-tribunals-hearing-appeals/article71734188.ece"
   }
  ],
  "quiz": [
   {
-   "q": "The Pralay missile, whose user trials concluded in November 2026, is a:",
+   "q": "Who is the Chairman of the Indian Space Research Organisation?",
    "o": [
-    "surface-to-air missile",
-    "quasi-ballistic missile with a range of up to 500 km",
-    "submarine-launched ballistic missile",
-    "anti-tank guided missile"
+    "S. Somanath",
+    "V. Narayanan",
+    "K. Sivan",
+    "A. S. Kiran Kumar"
    ],
    "a": 1,
-   "e": "Pralay is a solid-fuelled quasi-ballistic missile with a range of up to 500 km that can manoeuvre in flight to evade defences."
+   "e": "V. Narayanan is Chairman of ISRO and Secretary, Department of Space."
   },
   {
-   "q": "The Pralay user trial of November 2026 was conducted from:",
+   "q": "GSLV-F18, launched on 30 October 2026, carried which satellite?",
    "o": [
-    "Wheeler Island, now Dr APJ Abdul Kalam Island",
-    "Sriharikota",
-    "Pokhran",
-    "Balasore coast"
+    "NVS-03, a navigation satellite",
+    "EOS-08, an earth observation satellite",
+    "GSAT-20, a communications satellite",
+    "Aditya-L2"
    ],
    "a": 0,
-   "e": "The launch took place from Dr APJ Abdul Kalam Island off the Odisha coast, with range instruments at Chandipur tracking it."
+   "e": "GSLV-F18 carried NVS-03, a second-generation navigation satellite, restoring the NavIC constellation to four satellites."
   },
   {
-   "q": "Pralay is developed by which organisation?",
+   "q": "ISRO's first uncrewed mission under the Gaganyaan programme is intended to:",
    "o": [
-    "ISRO",
-    "DRDO",
-    "HAL",
-    "BARC"
+    "land a rover near the lunar south pole",
+    "test the crew module and escape systems before a crewed flight",
+    "place a space station module in orbit",
+    "study the sun from the L1 point"
    ],
    "a": 1,
-   "e": "Pralay has been developed by the Defence Research and Development Organisation."
+   "e": "The G1 uncrewed mission tests the crew module, its parachutes and escape systems before Indian astronauts fly."
   },
   {
-   "q": "Exercise MILAN 2026, hosted by the Indian Navy at Visakhapatnam, was accompanied by:",
+   "q": "The target year set by India for commissioning the Bharatiya Antariksh Station is:",
    "o": [
-    "an International Fleet Review",
-    "a joint army exercise",
-    "an air force firepower demonstration",
-    "a coast guard tribunal"
-   ],
-   "a": 0,
-   "e": "MILAN 2026 was held alongside an International Fleet Review at Visakhapatnam in February 2026, with 74 nations taking part."
-  },
-  {
-   "q": "The International Fleet Review held in February 2026 was India's:",
-   "o": [
-    "first",
-    "second",
-    "third",
-    "fifth"
+    "2028",
+    "2030",
+    "2035",
+    "2040"
    ],
    "a": 2,
-   "e": "India had held fleet reviews in 2001 and 2016; the 2026 review at Visakhapatnam was the third."
+   "e": "The Bharatiya Antariksh Station is targeted for 2035, with the first module planned by 2028, ahead of a crewed Moon landing by 2040."
   },
   {
-   "q": "Exercise PRAGATI 2026, held at Umroi in Meghalaya, was a maiden exercise involving:",
+   "q": "The 2026 Nobel Prize in Physiology or Medicine was awarded for:",
    "o": [
-    "armies of Indian Ocean Region countries",
-    "navies of the Quad",
-    "air forces of ASEAN",
-    "special forces of the SCO"
+    "the discovery of light-gated ion channels and optogenetics",
+    "the development of mRNA vaccines",
+    "the discovery of the hepatitis C virus",
+    "work on protein structure prediction"
    ],
    "a": 0,
-   "e": "PRAGATI 2026 was the first table-top and field training exercise among armies of Indian Ocean Region countries."
+   "e": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honoured for optogenetics, which allows individual nerve cells to be switched on or off with light."
   },
   {
-   "q": "Exercise Tarang Shakti 2026, the second edition of India's multinational air exercise, was held at:",
+   "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
    "o": [
-    "Jodhpur",
-    "Gwalior",
-    "Tezpur",
-    "Sulur"
+    "the detection of gravitational waves",
+    "the IceCube Neutrino Observatory and high-energy astrophysical neutrinos",
+    "work on black holes",
+    "the invention of the blue LED"
    ],
-   "a": 0,
-   "e": "The second edition was held at Jodhpur with the theme 'Power in Partnership'."
+   "a": 1,
+   "e": "Halzen was honoured for turning a cubic kilometre of Antarctic ice into the IceCube detector and for the discovery of high-energy neutrinos of astrophysical origin."
   },
   {
-   "q": "Exercise Yudh Abhyas is conducted between India and:",
+   "q": "The 2026 Nobel Prize in Chemistry recognised work on:",
    "o": [
-    "the United States",
-    "Russia",
-    "Japan",
-    "France"
-   ],
-   "a": 0,
-   "e": "Yudh Abhyas is the India-United States army exercise; its 22nd edition was held in 2026."
-  },
-  {
-   "q": "INS Nipun, commissioned in 2026, belongs to which class of vessels?",
-   "o": [
-    "Nistar-class diving support vessels",
-    "Arihant-class submarines",
-    "Visakhapatnam-class destroyers",
-    "Kamorta-class corvettes"
-   ],
-   "a": 0,
-   "e": "INS Nipun is the second of the Nistar-class diving support vessels, commissioned at Mumbai."
-  },
-  {
-   "q": "India took over the chairmanship of the Indian Ocean Naval Symposium for the term:",
-   "o": [
-    "2024-26",
-    "2025-27",
-    "2026-28",
-    "2027-29"
+    "quantum dots",
+    "click chemistry",
+    "non-linear effects and autocatalysis in asymmetric synthesis",
+    "lithium-ion batteries"
    ],
    "a": 2,
-   "e": "India assumed the IONS chairmanship for 2026-28, sixteen years after hosting the forum."
+   "e": "Henri Kagan of France and Kenso Soai of Japan were honoured for explaining how living systems came to contain one of two mirror-image forms of a molecule."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Literature was awarded to:",
+   "o": [
+    "Anne Carson",
+    "Han Kang",
+    "Jon Fosse",
+    "Abdulrazak Gurnah"
+   ],
+   "a": 0,
+   "e": "The Canadian poet and translator Anne Carson was honoured for an oeuvre in dialogue with the classical tradition."
+  },
+  {
+   "q": "The 2026 Nobel Peace Prize was awarded to Navi Pillay for:",
+   "o": [
+    "work on climate finance",
+    "efforts to promote peace and international law",
+    "reporting on conflict zones",
+    "work on disarmament"
+   ],
+   "a": 1,
+   "e": "Navanethem 'Navi' Pillay, the South African jurist, was honoured for her efforts to promote peace and international law."
+  },
+  {
+   "q": "The 2026 Nobel Prize in Economic Sciences was awarded for work that produced:",
+   "o": [
+    "the theory of comparative advantage",
+    "New Keynesian models of macroeconomic stabilisation",
+    "the efficient markets hypothesis",
+    "the theory of asymmetric information"
+   ],
+   "a": 1,
+   "e": "Robert E. Hall and Michael Woodford were honoured for the microeconomic foundations of macroeconomic stabilisation, used by central banks worldwide."
   }
  ]
 }
