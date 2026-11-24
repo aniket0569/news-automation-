@@ -1,15 +1,8 @@
 {
- "date": "2026-11-23T18:52:42.999095+05:30",
- "label": "Monday, 23 November 2026",
+ "date": "2026-11-24T19:32:29.671329+05:30",
+ "label": "Tuesday, 24 November 2026",
  "sources": "The Hindu",
  "news": [
-  {
-   "h": "i-ALERT system helps Telangana RTC save 1.98 lakh litres diesel in a month, cut down emissions from buses",
-   "catch": "The i-ALERT keeps tabs on gear selection, overspeeding, braking practices, engine RPM and idling thus assisting drivers to adopt safer and more fuel-efficient driving methods.",
-   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/telangana/i-alert-system-leads-to-savings-lesser-emissions-for-rtc/article71730955.ece"
-  },
   {
    "h": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
    "catch": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" on its surface",
@@ -18,11 +11,18 @@
    "url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece"
   },
   {
-   "h": "West Bengal SIR: Supreme Court orders ECI, Calcutta High Court to increase Tribunals hearing appeals",
-   "catch": "The Tribunals were also directed to segregate the appeals filed by deleted voters from others and grant it urgent, first-priority hearing",
-   "why": "Constitutional law: which Article, which court, and what the ruling changes.",
+   "h": "Fatal disagreement: on the COP31 summit",
+   "catch": "Developed nations must bear much of the cost of carbon emissions",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-orders-eci-calcutta-high-court-to-increase-tribunals-hearing-appeals/article71734188.ece"
+   "url": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece"
+  },
+  {
+   "h": "Rebel TMC MPs submit replies to Lok Sabha Speaker, claim constitutional legitimacy in leaving party",
+   "catch": "The controversy dates back to June, when 20 of the TMC's 27 Lok Sabha MPs broke away from the party following its defeat in the West Bengal Assembly elections and aligned themselves with the NCPI, extending support to the NDA",
+   "why": "How a law is made, and which list or Article it draws its power from.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/west-bengal/rebel-tmc-mps-submit-replies-to-lok-sabha-speaker-claim-constitutional-legitimacy-in-leaving-party/article71738656.ece"
   }
  ],
  "quiz": [
