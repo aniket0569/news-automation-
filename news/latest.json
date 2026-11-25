@@ -1,140 +1,140 @@
 {
- "date": "2026-11-24T19:32:29.671329+05:30",
- "label": "Tuesday, 24 November 2026",
+ "date": "2026-11-25T18:46:37.218951+05:30",
+ "label": "Wednesday, 25 November 2026",
  "sources": "The Hindu",
  "news": [
   {
-   "h": "Japan-Europe spacecraft BepiColombo begins orbit of Mercury, with a glitch reported",
-   "catch": "The mission will seek to answer questions about Mercury such as why it has a magnetic field, why ice exists in the polar craters of a sun-scorched planet, and what is the nature of enigmatic depressions called \"hollows\" on its surface",
-   "why": "Economy: the policy instrument, the body that sets it, and the direction of the number.",
-   "src": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/science/japan-europe-spacecraft-bepicolombo-begins-orbit-of-mercury-with-a-glitch-reported/article71733234.ece"
-  },
-  {
-   "h": "Fatal disagreement: on the COP31 summit",
-   "catch": "Developed nations must bear much of the cost of carbon emissions",
+   "h": "Pallivasal Extension Scheme cost touched ₹632.5 crore following delays, says Kerala State Electricity Board",
+   "catch": "60-MW hydropower project took more than 20 years to complete. The project was originally given administrative sanction for ₹175.86 crore in 2001",
    "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece"
+   "url": "https://www.thehindu.com/news/national/kerala/pallivasal-extension-scheme-cost-touched-6325-crore-following-delays-says-kerala-state-electricity-board/article71741974.ece"
   },
   {
-   "h": "Rebel TMC MPs submit replies to Lok Sabha Speaker, claim constitutional legitimacy in leaving party",
-   "catch": "The controversy dates back to June, when 20 of the TMC's 27 Lok Sabha MPs broke away from the party following its defeat in the West Bengal Assembly elections and aligned themselves with the NCPI, extending support to the NDA",
-   "why": "How a law is made, and which list or Article it draws its power from.",
+   "h": "Jharkhand govt moves resolution against SIR during special assembly session",
+   "catch": "Alleging that the Election Commission of India (ECI) was ‘working as the Centre’s puppet’, the Jharkhand Finance Minister said that removing Gyanesh Kumar was ‘necessary to protect the Constitution’",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
    "src": "The Hindu",
-   "url": "https://www.thehindu.com/news/national/west-bengal/rebel-tmc-mps-submit-replies-to-lok-sabha-speaker-claim-constitutional-legitimacy-in-leaving-party/article71738656.ece"
+   "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-govt-moves-resolution-against-sir-during-special-assembly-session/article71742442.ece"
+  },
+  {
+   "h": "Why has the INDIA bloc posed 48 questions to the Election Commission over SIR?",
+   "catch": "Through the interrogatories, the petitioners want the decision making process to be made public",
+   "why": "A welfare scheme: who funds it, who delivers it, and the eligibility line.",
+   "src": "The Hindu",
+   "url": "https://www.thehindu.com/news/national/why-has-the-india-bloc-posed-48-questions-to-the-election-commission-over-sir/article71718779.ece"
   }
  ],
  "quiz": [
   {
-   "q": "Who is the Chairman of the Indian Space Research Organisation?",
+   "q": "At its meeting in October 2026, the Monetary Policy Committee raised the repo rate by 25 basis points to:",
    "o": [
-    "S. Somanath",
-    "V. Narayanan",
-    "K. Sivan",
-    "A. S. Kiran Kumar"
+    "5.25 per cent",
+    "5.50 per cent",
+    "6.00 per cent",
+    "6.50 per cent"
    ],
    "a": 1,
-   "e": "V. Narayanan is Chairman of ISRO and Secretary, Department of Space."
+   "e": "The 63rd MPC meeting, held from 5 to 7 October 2026, raised the repo rate to 5.50 per cent - the first increase in nearly four years."
   },
   {
-   "q": "GSLV-F18, launched on 30 October 2026, carried which satellite?",
+   "q": "What stance did the Monetary Policy Committee adopt in October 2026?",
    "o": [
-    "NVS-03, a navigation satellite",
-    "EOS-08, an earth observation satellite",
-    "GSAT-20, a communications satellite",
-    "Aditya-L2"
-   ],
-   "a": 0,
-   "e": "GSLV-F18 carried NVS-03, a second-generation navigation satellite, restoring the NavIC constellation to four satellites."
-  },
-  {
-   "q": "ISRO's first uncrewed mission under the Gaganyaan programme is intended to:",
-   "o": [
-    "land a rover near the lunar south pole",
-    "test the crew module and escape systems before a crewed flight",
-    "place a space station module in orbit",
-    "study the sun from the L1 point"
-   ],
-   "a": 1,
-   "e": "The G1 uncrewed mission tests the crew module, its parachutes and escape systems before Indian astronauts fly."
-  },
-  {
-   "q": "The target year set by India for commissioning the Bharatiya Antariksh Station is:",
-   "o": [
-    "2028",
-    "2030",
-    "2035",
-    "2040"
+    "Accommodative",
+    "Neutral",
+    "Calibrated tightening",
+    "Withdrawal of accommodation"
    ],
    "a": 2,
-   "e": "The Bharatiya Antariksh Station is targeted for 2035, with the first module planned by 2028, ahead of a crewed Moon landing by 2040."
+   "e": "The Committee changed its stance to 'calibrated tightening', having previously held a neutral stance."
   },
   {
-   "q": "The 2026 Nobel Prize in Physiology or Medicine was awarded for:",
+   "q": "Following the October 2026 decision, the Standing Deposit Facility rate stands at:",
    "o": [
-    "the discovery of light-gated ion channels and optogenetics",
-    "the development of mRNA vaccines",
-    "the discovery of the hepatitis C virus",
-    "work on protein structure prediction"
-   ],
-   "a": 0,
-   "e": "Karl Deisseroth, Peter Hegemann and Georg Nagel were honoured for optogenetics, which allows individual nerve cells to be switched on or off with light."
-  },
-  {
-   "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
-   "o": [
-    "the detection of gravitational waves",
-    "the IceCube Neutrino Observatory and high-energy astrophysical neutrinos",
-    "work on black holes",
-    "the invention of the blue LED"
+    "5.00 per cent",
+    "5.25 per cent",
+    "5.50 per cent",
+    "5.75 per cent"
    ],
    "a": 1,
-   "e": "Halzen was honoured for turning a cubic kilometre of Antarctic ice into the IceCube detector and for the discovery of high-energy neutrinos of astrophysical origin."
+   "e": "The SDF rate is set 25 basis points below the repo rate, at 5.25 per cent, while the MSF rate and Bank Rate stand at 5.75 per cent."
   },
   {
-   "q": "The 2026 Nobel Prize in Chemistry recognised work on:",
+   "q": "Real GDP growth in the first quarter of 2026-27, as estimated by the National Statistical Office, was:",
    "o": [
-    "quantum dots",
-    "click chemistry",
-    "non-linear effects and autocatalysis in asymmetric synthesis",
-    "lithium-ion batteries"
+    "6.5 per cent",
+    "7.1 per cent",
+    "7.8 per cent",
+    "8.2 per cent"
    ],
    "a": 2,
-   "e": "Henri Kagan of France and Kenso Soai of Japan were honoured for explaining how living systems came to contain one of two mirror-image forms of a molecule."
+   "e": "Q1 of 2026-27 recorded 7.8 per cent growth, higher than expected, as noted in the October 2026 monetary policy statement."
   },
   {
-   "q": "The 2026 Nobel Prize in Literature was awarded to:",
+   "q": "In October 2026 the RBI projected GDP growth for 2026-27 at:",
    "o": [
-    "Anne Carson",
-    "Han Kang",
-    "Jon Fosse",
-    "Abdulrazak Gurnah"
+    "6.5 per cent",
+    "6.8 per cent",
+    "7.1 per cent",
+    "7.6 per cent"
    ],
-   "a": 0,
-   "e": "The Canadian poet and translator Anne Carson was honoured for an oeuvre in dialogue with the classical tradition."
+   "a": 2,
+   "e": "The projection for 2026-27 was raised to 7.1 per cent, reflecting strong net exports, government consumption and investment."
   },
   {
-   "q": "The 2026 Nobel Peace Prize was awarded to Navi Pillay for:",
+   "q": "India's foreign exchange reserves stood at approximately which level in early October 2026?",
    "o": [
-    "work on climate finance",
-    "efforts to promote peace and international law",
-    "reporting on conflict zones",
-    "work on disarmament"
+    "USD 634 billion",
+    "USD 684 billion",
+    "USD 734 billion",
+    "USD 834 billion"
+   ],
+   "a": 2,
+   "e": "Reserves were about USD 734.6 billion as on 2 October 2026, having peaked at about USD 785.7 billion in early September."
+  },
+  {
+   "q": "The fiscal deficit in the Budget Estimates for 2026-27 was placed at:",
+   "o": [
+    "4.0 per cent of GDP",
+    "4.3 per cent of GDP",
+    "4.4 per cent of GDP",
+    "4.9 per cent of GDP"
    ],
    "a": 1,
-   "e": "Navanethem 'Navi' Pillay, the South African jurist, was honoured for her efforts to promote peace and international law."
+   "e": "The fiscal deficit was estimated at 4.3 per cent of GDP for 2026-27, against 4.4 per cent in the Revised Estimates for 2025-26."
   },
   {
-   "q": "The 2026 Nobel Prize in Economic Sciences was awarded for work that produced:",
+   "q": "Public capital expenditure in the 2026-27 Budget was raised to:",
    "o": [
-    "the theory of comparative advantage",
-    "New Keynesian models of macroeconomic stabilisation",
-    "the efficient markets hypothesis",
-    "the theory of asymmetric information"
+    "Rs. 10.2 lakh crore",
+    "Rs. 11.2 lakh crore",
+    "Rs. 12.2 lakh crore",
+    "Rs. 13.5 lakh crore"
+   ],
+   "a": 2,
+   "e": "Public capex was increased to Rs. 12.2 lakh crore for FY 2026-27, from Rs. 11.2 lakh crore in the 2025-26 Budget Estimates."
+  },
+  {
+   "q": "The debt-to-GDP ratio estimated in the 2026-27 Budget, against which the government has set a glide path, is:",
+   "o": [
+    "50.1 per cent",
+    "53.4 per cent",
+    "55.6 per cent",
+    "58.2 per cent"
+   ],
+   "a": 2,
+   "e": "Debt was estimated at 55.6 per cent of GDP for 2026-27, with a target of 50 plus or minus 1 per cent by 2030-31."
+  },
+  {
+   "q": "The 2026-27 Budget retained the States' vertical share of central taxes at:",
+   "o": [
+    "32 per cent",
+    "41 per cent",
+    "42 per cent",
+    "45 per cent"
    ],
    "a": 1,
-   "e": "Robert E. Hall and Michael Woodford were honoured for the microeconomic foundations of macroeconomic stabilisation, used by central banks worldwide."
+   "e": "On the Sixteenth Finance Commission's recommendation, the vertical devolution share was retained at 41 per cent."
   }
  ]
 }
